@@ -1,0 +1,85 @@
+<html>
+    <header>
+        <title>Flag Football Season 2024</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap5.css">
+        <link rel="stylesheet" type="text/css" href="css/dataTables.searchHighlight.css">
+        <link rel="stylesheet" type="text/css" href="css/buttons.dataTables.min.css">
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.highlight.js"></script>
+        <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+        <script type="text/javascript" src="js/dataTables.js"></script>
+        <script type="text/javascript" src="js/dataTables.bootstrap5.js"></script>
+        <script type="text/javascript" src="js/dataTables.searchHighlight.min.js"></script>
+        <script type="text/javascript" src="js/dataTables.buttons.min.js"></script>
+    </header>
+    </header>
+    <body>
+        <table id="schedule" class="table table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Venue</th>
+                    <th>Field</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>League</th>
+                    <th>Home Team</th>
+                    <th>Away Team</th>
+                    <th>Referee</th>
+                    <th>Lineman</th>
+                    <th>Field Judge</th>
+                    <th>Side Judge</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Date</th>
+                    <th>Venue</th>
+                    <th>Field</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>League</th>
+                    <th>Home Team</th>
+                    <th>Away Team</th>
+                    <th>Referee</th>
+                    <th>Lineman</th>
+                    <th>Field Judge</th>
+                    <th>Side Judge</th>
+                </tr>
+            </tfoot>
+        </table>
+        <script>
+            var table = new DataTable('#schedule', {
+                buttons: [ 'copy' ],
+                ordering: false,
+                ajax: 'FullSchedule.json',
+                columns: [
+                    { data: 'Date' },
+                    { data: 'Venue' },
+                    { data: 'Field' },
+                    { data: 'Start' },
+                    { data: 'End' },
+                    { data: 'League' },
+                    { data: 'Home Team' },
+                    { data: 'Away Team' },
+                    { data: 'Referee' },
+                    { data: 'Lineman' },
+                    { data: 'Field Judge' },
+                    { data: 'Side Judge' }
+                ]
+            });
+
+            $(document).ready( function () {
+                var table = $('#schedule').DataTable();
+            
+                table.on( 'draw', function () {
+                    var body = $( table.table().body() );
+            
+                    body.unhighlight();
+                    body.highlight( table.search() );  
+                } );
+            } );
+        </script>
+    </body>
+</html>
