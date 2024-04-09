@@ -1,0 +1,50 @@
+<html>
+    <header>
+        <title>Flag Football Season 2024</title>
+        <link rel="stylesheet" type="text/css" href="css/dataTables.dataTables.css">
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/dataTables.js"></script>
+    </header>
+    </header>
+    <body>
+        <table id="example" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Venue</th>
+                    <th>Field</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>League</th>
+                    <th>Home Team</th>
+                    <th>Away Team</th>
+                    <th>Referee</th>
+                    <th>Lineman</th>
+                    <th>Field Judge</th>
+                    <th>Side Judge</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Date</th>
+                    <th>Venue</th>
+                    <th>Field</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>League</th>
+                    <th>Home Team</th>
+                    <th>Away Team</th>
+                    <th>Referee</th>
+                    <th>Lineman</th>
+                    <th>Field Judge</th>
+                    <th>Side Judge</th>
+                </tr>
+            </tfoot>
+        </table>
+        <script>
+            new DataTable('#example', {
+                ajax: 'FullSchedule.json'
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,1 @@
+Get-Content -Path "FullSchedule.csv" | ConvertFrom-Csv -Delimiter ',' | ConvertTo-Json | Add-Content -Path "FullSchedule.json"
