@@ -1,2 +1,2 @@
-$data = (Get-Content -Path "FullSchedule.csv" | ConvertFrom-Csv -Delimiter ',')
-ConvertTo-Json @{data = ($data)} | Add-Content -Path "FullSchedule.json"
+$data = ( Get-Content -Path "FullSchedule.tsv" | ConvertFrom-Csv -Delimiter "`t" )
+ConvertTo-Json @{data = ($data)} | Set-Content -Path "FullSchedule.json"
