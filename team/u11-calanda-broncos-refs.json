@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-07",
+      "Venue": "Zurich",
+      "Field": "Field 2",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "U13",
+      "Home Team": "U13 Rafz Bulldogs",
+      "Away Team": "U13 Winterthur Warriors",
+      "Referee": "Phil Lemp",
+      "Lineman": "U13 Calanda Broncos",
+      "Field Judge": "U11 Calanda Broncos",
+      "Side Judge": "U16 St. Gallen Bears"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U16",
+      "Home Team": "U16 Langenthal Invaders",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "U13 Zurich Renegades",
+      "Lineman": "U13 Thun Tigers",
+      "Field Judge": "U13 Langenthal Invaders",
+      "Side Judge": "U11 Calanda Broncos"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "U11 Calanda Broncos",
+      "Field Judge": "U11 Zurich Renegades",
+      "Side Judge": "U11 St. Gallen Bears"
+    }
+  ]
+}

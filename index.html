@@ -5,6 +5,7 @@
         <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap5.css">
         <link rel="stylesheet" type="text/css" href="css/dataTables.searchHighlight.css">
         <link rel="stylesheet" type="text/css" href="css/buttons.dataTables.min.css">
+        <link rel="stylesheet" type="text/css" href="css/schedule.css">
         <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/jquery.highlight.js"></script>
         <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
@@ -13,8 +14,15 @@
         <script type="text/javascript" src="js/dataTables.searchHighlight.min.js"></script>
         <script type="text/javascript" src="js/dataTables.buttons.min.js"></script>
     </header>
-    </header>
-    <body>
+    <body class="dataTables_wrapper">
+        <h3>Swiss Flag Football Schedule Season 2024</h3>
+        Filter: <select id="teamFilter"><option value="schedule">All Teams</option></select>
+        <select id="type">
+            <option value="all">Games + Refs</option>
+            <option value="games">Games</option>
+            <option value="refs">Refs</option>
+        </select>
+        URL for calendar subscription: <input type="text" id="icsUrl"/>
         <table id="schedule" class="table table-striped" style="width:100%">
             <thead>
                 <tr>
@@ -50,26 +58,51 @@
             </tfoot>
         </table>
         <script>
+            $.getJSON('teams.json', function(data) {
+                $.each(data, function(index, team) {
+                    var teamfile = team.toLowerCase().replace(/\s+/g, '-');
+                    $('#teamFilter').append('<option value="' + teamfile + '">' + team + '</option>');
+                });
+            });
+
             var table = new DataTable('#schedule', {
                 buttons: [ 'copy' ],
                 ordering: false,
-                ajax: 'FullSchedule.json',
+                ajax: 'schedule.json',
                 columns: [
-                    { data: 'Date' },
+                    { data: 'Date', className: 'nowrap' },
                     { data: 'Venue' },
-                    { data: 'Field' },
-                    { data: 'Start' },
-                    { data: 'End' },
-                    { data: 'League' },
+                    { data: 'Field', className: 'nowrap' },
+                    { data: 'Start', className: 'nowrap' },
+                    { data: 'End', className: 'nowrap' },
+                    { data: 'League', className: 'nowrap' },
                     { data: 'Home Team' },
                     { data: 'Away Team' },
                     { data: 'Referee' },
                     { data: 'Lineman' },
                     { data: 'Field Judge' },
                     { data: 'Side Judge' }
-                ]
+                ],
+                pageLength: 100
             });
 
+            function updateTable() {
+                if ($('#teamFilter').val() == 'schedule') {
+                    url = 'schedule';
+                } else {
+                    url = 'team/'+$('#teamFilter').val()+'-'+$('#type').val();
+                }
+                table.ajax.url(url+'.json').load();
+                var baseUrl = window.location.href.split('/').slice(0, -1).join('/');
+                $('#icsUrl').val(baseUrl + '/' + url + '.ics');
+            }
+
+            $('#teamFilter').change(updateTable);
+            $('#type').change(updateTable);
+
+            $('#icsUrl').click(function() {
+                $('#icsUrl').select();
+            });
 
             $(document).ready( function () {
                 var table = $('#schedule').DataTable();
@@ -78,9 +111,19 @@
                     var body = $( table.table().body() );
             
                     body.unhighlight();
-                    body.highlight( table.search() );  
+                    var searchValue = table.search();
+                    if (searchValue === '') {
+                        searchValue = $('#teamFilter option:selected').text();
+                    }
+                    body.highlight( searchValue );  
                 } );
             } );
+
+            $(document).load(updateTable());
+
+            $('#icsLink').click(function() {
+                window.open($('#icsUrl').val()+'?subscription=true');
+            });
         </script>
     </body>
 </html>

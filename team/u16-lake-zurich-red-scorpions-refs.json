@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Winterthur Warriors",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "U16 Lake Zurich Red Scorpions",
+      "Lineman": "U16 Lake Zurich Red Scorpions",
+      "Field Judge": "U16 Lake Zurich Red Scorpions",
+      "Side Judge": "U16 Lake Zurich Red Scorpions"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Rafz Bulldogs",
+      "Referee": "U16 Lake Zurich Red Scorpions",
+      "Lineman": "U16 Lake Zurich Red Scorpions",
+      "Field Judge": "U16 Lake Zurich Red Scorpions",
+      "Side Judge": "U16 Lake Zurich Red Scorpions"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Winterthur Warriors",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "U16 Lake Zurich Red Scorpions",
+      "Lineman": "U16 Lake Zurich Red Scorpions",
+      "Field Judge": "U16 Lake Zurich Red Scorpions",
+      "Side Judge": "U16 Lake Zurich Red Scorpions"
+    }
+  ]
+}

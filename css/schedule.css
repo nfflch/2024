@@ -1,0 +1,36 @@
+body {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-stretch: condensed;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+/* Light theme */
+.dataTables_wrapper {
+    background-color: #f5f5f5;
+    color: #333333;
+}
+
+.dataTables_wrapper td,
+.dataTables_wrapper th,
+.dataTables_wrapper tfoot td,
+.dataTables_wrapper tfoot th {
+    color: #333333;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+    .dataTables_wrapper {
+        background-color: #333333;
+        color: #f5f5f5;
+    }
+
+    .dataTables_wrapper td,
+    .dataTables_wrapper th,
+    .dataTables_wrapper tfoot td,
+    .dataTables_wrapper tfoot th {
+        color: #f5f5f5;
+    }
+}
