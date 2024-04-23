@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Winterthur Warriors Cardinal",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "CE Thurgauer Generals",
+      "Side Judge": "CE Thurgauer Generals"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Zurich Renegades C",
+      "Side Judge": "CE Zurich Renegades C"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Thurgauer Generals",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Zurich Renegades C",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "U13 Rafz Bulldogs",
+      "Side Judge": "U13 Rafz Bulldogs"
+    }
+  ]
+}

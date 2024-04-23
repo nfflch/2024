@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 4",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Chaux de Fonds Hornets",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "CSW Thun Tigers",
+      "Side Judge": "CSW Thun Tigers"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 4",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Chaux de Fonds Hornets",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CSW Blackbucks Uni Bern Black",
+      "Field Judge": "CSW Blackbucks Uni Bern Black",
+      "Side Judge": "CSW Blackbucks Uni Bern Black"
+    }
+  ]
+}

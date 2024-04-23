@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY CN",
+      "Home Team": "CN Aemme Buzzards I",
+      "Away Team": "CN Argovia Pirates",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Lake Zurich Red Scorpions",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    }
+  ]
+}

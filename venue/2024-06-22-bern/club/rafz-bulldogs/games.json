@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

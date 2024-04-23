@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-07",
+      "Venue": "Zurich",
+      "Field": "Field 2",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "U11",
+      "Home Team": "U11 Zurich Renegades",
+      "Away Team": "U11 Calanda Broncos",
+      "Referee": "Phil Lemp",
+      "Lineman": "U13 Rafz Bulldogs",
+      "Field Judge": "U16 St. Gallen Bears",
+      "Side Judge": "U16 St. Gallen Bears"
+    },
+    {
+      "Date": "2024-04-07",
+      "Venue": "Zurich",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "U11",
+      "Home Team": "U11 St. Gallen Bears",
+      "Away Team": "U11 Calanda Broncos",
+      "Referee": "Zurich Renegades",
+      "Lineman": "U16 Zurich Renegades White",
+      "Field Judge": "U16 Zurich Renegades White",
+      "Side Judge": "U16 Zurich Renegades White"
+    }
+  ]
+}

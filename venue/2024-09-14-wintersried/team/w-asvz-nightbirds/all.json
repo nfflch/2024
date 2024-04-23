@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Neuchâtel Knights",
+      "Referee": "W Zurich Renegades W",
+      "Lineman": "W Zurich Renegades W",
+      "Field Judge": "W Zurich Renegades W",
+      "Side Judge": "W Zurich Renegades W"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "W ASVZ Nightbirds",
+      "Lineman": "W ASVZ Nightbirds",
+      "Field Judge": "W ASVZ Nightbirds",
+      "Side Judge": "W ASVZ Nightbirds"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 3",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Lugano Rebels",
+      "Referee": "W Neuchâtel Knights",
+      "Lineman": "W Neuchâtel Knights",
+      "Field Judge": "W Neuchâtel Knights",
+      "Side Judge": "W Neuchâtel Knights"
+    }
+  ]
+}

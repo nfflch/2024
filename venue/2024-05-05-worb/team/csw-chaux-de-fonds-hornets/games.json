@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Chaux de Fonds Hornets",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CN Zurich Renegades B",
+      "Field Judge": "CN Zurich Renegades B",
+      "Side Judge": "CN Zurich Renegades B"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Chaux de Fonds Hornets",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

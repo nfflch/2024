@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Basel Spartans Yellow",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "U13 Zurich Renegades"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY B",
+      "Home Team": "B Rafz Bulldogs A",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "U13 Lake Zurich Red Scorpions",
+      "Side Judge": "U13 Lake Zurich Red Scorpions"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY B",
+      "Home Team": "B Basel Spartans Yellow",
+      "Away Team": "B Rafz Bulldogs A",
+      "Referee": "B Zorros Zürich",
+      "Lineman": "B Zorros Zürich",
+      "Field Judge": "B Zorros Zürich",
+      "Side Judge": "B Zorros Zürich"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U13",
+      "Home Team": "U13 Thun Tigers",
+      "Away Team": "U13 Winterthur Warriors",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "CSW Blackbucks Uni Bern Black",
+      "Field Judge": "CSW Blackbucks Uni Bern Black",
+      "Side Judge": "CSW Blackbucks Uni Bern Black"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Aemme Buzzards II",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Lake Zurich Red Scorpions",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "14:50",
+      "End": "15:50",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Langenthal Invaders",
+      "Referee": "CN Blackbucks Uni Bern White",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

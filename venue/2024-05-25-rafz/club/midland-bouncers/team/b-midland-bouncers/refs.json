@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Winterthur Warriors",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    }
+  ]
+}

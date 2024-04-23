@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Thun Tigers",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CN Aemme Buzzards I",
+      "Lineman": "CN Aemme Buzzards I",
+      "Field Judge": "CN Aemme Buzzards I",
+      "Side Judge": "CN Aemme Buzzards I"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Chaux de Fonds Hornets",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "U11 Calanda Broncos",
+      "Field Judge": "U11 Zurich Renegades",
+      "Side Judge": "U11 St. Gallen Bears"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 6",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Basel Spartans",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "U13 Langenthal Invaders",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "U13 Zurich Renegades",
+      "Side Judge": "U13 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Winterthur Warriors",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "U16 Lake Zurich Red Scorpions",
+      "Lineman": "U16 Lake Zurich Red Scorpions",
+      "Field Judge": "U16 Lake Zurich Red Scorpions",
+      "Side Judge": "U16 Lake Zurich Red Scorpions"
+    }
+  ]
+}

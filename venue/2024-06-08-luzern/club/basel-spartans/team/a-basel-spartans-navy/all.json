@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A ASVZ Mockingbirds",
+      "Lineman": "A ASVZ Mockingbirds",
+      "Field Judge": "A ASVZ Mockingbirds",
+      "Side Judge": "A ASVZ Mockingbirds"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 2",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Midland Bouncers",
+      "Lineman": "A Midland Bouncers",
+      "Field Judge": "A Midland Bouncers",
+      "Side Judge": "A Midland Bouncers"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Winterthur Warriors Gold",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY A",
+      "Home Team": "A Basel Spartans Navy",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Zurich Renegades A",
+      "Lineman": "A Zurich Renegades A",
+      "Field Judge": "A Zurich Renegades A",
+      "Side Judge": "A Zurich Renegades A"
+    }
+  ]
+}

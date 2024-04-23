@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Zurich Renegades C",
+      "Side Judge": "CE Zurich Renegades C"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Thurgauer Generals",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Zurich Renegades C",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Zurich Renegades C",
+      "Field Judge": "U13 Lake Zurich Red Scorpions",
+      "Side Judge": "U13 Lake Zurich Red Scorpions"
+    }
+  ]
+}

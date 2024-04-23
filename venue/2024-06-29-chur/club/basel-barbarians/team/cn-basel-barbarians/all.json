@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 1",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "U13 - F",
+      "Home Team": "Rang 1",
+      "Away Team": "Rang 2",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Basel Barbarians",
+      "Side Judge": "CN Basel Barbarians"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CN",
+      "Home Team": "CN Blackbucks Uni Bern White",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CN Zurich Renegades B",
+      "Field Judge": "CN Zurich Renegades B",
+      "Side Judge": "CN Zurich Renegades B"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Basel Barbarians",
+      "Away Team": "CN Fraumatt Legions",
+      "Referee": "CN Blackbucks Uni Bern White",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

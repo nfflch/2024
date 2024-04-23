@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Winterthur Warriors Cardinal",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE St. Gallen Bears",
+      "Referee": "Roland Frei",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    }
+  ]
+}

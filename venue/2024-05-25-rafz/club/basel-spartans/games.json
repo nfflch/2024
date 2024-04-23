@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 4",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY B",
+      "Home Team": "B Basel Spartans Yellow",
+      "Away Team": "B Soly Rhinos",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "B Bienna Jets OG's",
+      "Side Judge": "B Bienna Jets OG's"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Basel Spartans",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Winterthur Warriors",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY B",
+      "Home Team": "B Bienna Jets OG's",
+      "Away Team": "B Basel Spartans Yellow",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    }
+  ]
+}

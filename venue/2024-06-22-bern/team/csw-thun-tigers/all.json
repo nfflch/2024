@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 3",
+      "Start": "10:00",
+      "End": "11:00",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Aemme Buzzards II",
+      "Away Team": "CSW Blackbucks Uni Bern Black",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 3",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Thun Tigers",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 3",
+      "Start": "15:50",
+      "End": "16:50",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "CSW Thun Tigers",
+      "Side Judge": "CSW Thun Tigers"
+    }
+  ]
+}

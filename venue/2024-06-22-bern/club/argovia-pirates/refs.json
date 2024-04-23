@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 1",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

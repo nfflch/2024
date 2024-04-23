@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 1",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Fraumatt Legions",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 1",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CN",
+      "Home Team": "CN Aemme Buzzards I",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 1",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "11:10",
+      "End": "12:10",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Lake Zürich Red Scorpions",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Schottikon Raptors",
+      "Field Judge": "CE Schottikon Raptors",
+      "Side Judge": "CE Schottikon Raptors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "15:50",
+      "End": "16:50",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    }
+  ]
+}

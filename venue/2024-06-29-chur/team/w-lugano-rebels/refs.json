@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "W",
+      "Home Team": "W SG Calanda Broncos St. Gallen Bears",
+      "Away Team": "W Geneva Seahawks",
+      "Referee": "Andreas Capeder",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "15:50",
+      "End": "16:50",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Blackbucks Uni Bern White",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    }
+  ]
+}

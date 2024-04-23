@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "11:10",
+      "End": "12:10",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Lake Zürich Red Scorpions",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Schottikon Raptors",
+      "Field Judge": "CE Schottikon Raptors",
+      "Side Judge": "CE Schottikon Raptors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Bern",
+      "Field": "Field 2",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    }
+  ]
+}

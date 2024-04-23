@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CN",
+      "Home Team": "CN Fraumatt Legions",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Basel Barbarians",
+      "Away Team": "CN Fraumatt Legions",
+      "Referee": "CN Blackbucks Uni Bern White",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

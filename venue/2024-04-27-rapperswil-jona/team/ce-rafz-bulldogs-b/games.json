@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Schottikon Raptors",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "CE Thurgauer Generals",
+      "Side Judge": "CE Thurgauer Generals"
+    }
+  ]
+}

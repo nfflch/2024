@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 1",
+      "Start": "9:50",
+      "End": "10:50",
+      "League": "HARWY CN",
+      "Home Team": "CN Fraumatt Legions",
+      "Away Team": "CN Argovia Pirates",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 1",
+      "Start": "13:00",
+      "End": "14:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Blackbucks Uni Bern White",
+      "Away Team": "CN Fraumatt Legions",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

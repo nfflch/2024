@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY B",
+      "Home Team": "B Bienna Jets OG's",
+      "Away Team": "B Basel Spartans Yellow",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "B Winterthur Warriors Black"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Midland Bouncers",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    }
+  ]
+}

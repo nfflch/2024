@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Zurich Renegades Blue",
+      "Referee": "Roland Frei",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Fraumatt Legions Black"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Gladiators Basel",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Chaux de Fonds Hornets",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CN Zurich Renegades B",
+      "Field Judge": "CN Zurich Renegades B",
+      "Side Judge": "CN Zurich Renegades B"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Bienna Jets Young Guns",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Chaux de Fonds Hornets",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "13:40",
+      "End": "14:40",
+      "League": "U16",
+      "Home Team": "U16 Lugano Rebels",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 5",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Winterthur Warriors",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 6",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Winterthur Warriors",
+      "Away Team": "U16 Zurich Renegades Blue",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    }
+  ]
+}

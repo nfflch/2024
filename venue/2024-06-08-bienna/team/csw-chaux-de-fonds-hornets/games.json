@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Chaux de Fonds Hornets",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Chaux de Fonds Hornets",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    }
+  ]
+}

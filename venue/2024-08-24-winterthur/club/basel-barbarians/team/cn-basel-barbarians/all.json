@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 3",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CN",
+      "Home Team": "CN Aemme Buzzards I",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CN Basel Barbarians",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Zurich Renegades B",
+      "Side Judge": "CN Zurich Renegades B"
+    },
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 3",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "CN Aemme Buzzards I",
+      "Lineman": "CN Aemme Buzzards I",
+      "Field Judge": "CN Aemme Buzzards I",
+      "Side Judge": "CN Aemme Buzzards I"
+    },
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 3",
+      "Start": "15:50",
+      "End": "16:50",
+      "League": "HARWY CN",
+      "Home Team": "CN Aemme Buzzards I",
+      "Away Team": "CN Blackbucks Uni Bern White",
+      "Referee": "CN Basel Barbarians",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 3",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Basel Barbarians",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CN Aemme Buzzards I",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-07",
+      "Venue": "Zurich",
+      "Field": "Field 2",
+      "Start": "11:10",
+      "End": "12:10",
+      "League": "U11",
+      "Home Team": "U11 St. Gallen Bears",
+      "Away Team": "U11 Zurich Renegades",
+      "Referee": "U13 Lake Zurich Red Scorpions",
+      "Lineman": "U13 Winterthur Warriors",
+      "Field Judge": "U16 Zurich Renegades White",
+      "Side Judge": "U13 Zurich Renegades"
+    },
+    {
+      "Date": "2024-04-07",
+      "Venue": "Zurich",
+      "Field": "Field 2",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "U11",
+      "Home Team": "U11 Zurich Renegades",
+      "Away Team": "U11 Calanda Broncos",
+      "Referee": "Phil Lemp",
+      "Lineman": "U13 Rafz Bulldogs",
+      "Field Judge": "U16 St. Gallen Bears",
+      "Side Judge": "U16 St. Gallen Bears"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 Zurich Renegades",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U11",
+      "Home Team": "U11 Zurich Renegades",
+      "Away Team": "U11 St. Gallen Bears",
+      "Referee": "U16 Zurich Renegades Blue",
+      "Lineman": "U16 Zurich Renegades Blue",
+      "Field Judge": "U16 Zurich Renegades Blue",
+      "Side Judge": "U16 Zurich Renegades Blue"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U11",
+      "Home Team": "U11 Calanda Broncos",
+      "Away Team": "U11 Zurich Renegades",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "U16 Lugano Rebels",
+      "Field Judge": "U16 Lugano Rebels",
+      "Side Judge": "U16 Lugano Rebels"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 6",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 Zurich Renegades",
+      "Referee": "U16 Geneva Seahawks",
+      "Lineman": "U16 Geneva Seahawks",
+      "Field Judge": "U16 Geneva Seahawks",
+      "Side Judge": "U16 Geneva Seahawks"
+    }
+  ]
+}

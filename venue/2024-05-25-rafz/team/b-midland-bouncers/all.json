@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 4",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "Roland Frei",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Bienna Jets OG's",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "B Winterthur Warriors Black"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Winterthur Warriors",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    }
+  ]
+}

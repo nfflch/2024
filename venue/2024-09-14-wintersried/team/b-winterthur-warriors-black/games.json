@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY B",
+      "Home Team": "B Bienna Jets OG's",
+      "Away Team": "B Winterthur Warriors Black",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY B",
+      "Home Team": "B Basel Spartans Yellow",
+      "Away Team": "B Winterthur Warriors Black",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "B Bienna Jets OG's",
+      "Side Judge": "B Bienna Jets OG's"
+    }
+  ]
+}

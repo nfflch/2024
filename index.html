@@ -5,6 +5,7 @@
         <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap5.css">
         <link rel="stylesheet" type="text/css" href="css/dataTables.searchHighlight.css">
         <link rel="stylesheet" type="text/css" href="css/buttons.dataTables.min.css">
+        <link rel="stylesheet" type="text/css" href="css/roboto-condensed.css">
         <link rel="stylesheet" type="text/css" href="css/schedule.css">
         <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/jquery.highlight.js"></script>
@@ -15,9 +16,12 @@
         <script type="text/javascript" src="js/dataTables.buttons.min.js"></script>
     </header>
     <body class="dataTables_wrapper">
-        <h3>Swiss Flag Football Schedule Season 2024</h3>
-        Filter: <select id="teamFilter"><option value="schedule">All Teams</option></select>
-        <select id="type">
+        <h3>Swiss Flag Football Schedule Season 2024 <span style="font-size: small;">(Updated 2024-04-23)</span></h3>
+        Filter:
+        <select id="venueFilter"></select>
+        <select id="clubFilter"></select>
+        <select id="teamFilter"></select>
+        <select id="typeFilter">
             <option value="all">Games + Refs</option>
             <option value="games">Games</option>
             <option value="refs">Refs</option>
@@ -58,17 +62,9 @@
             </tfoot>
         </table>
         <script>
-            $.getJSON('teams.json', function(data) {
-                $.each(data, function(index, team) {
-                    var teamfile = team.toLowerCase().replace(/\s+/g, '-');
-                    $('#teamFilter').append('<option value="' + teamfile + '">' + team + '</option>');
-                });
-            });
-
             var table = new DataTable('#schedule', {
-                buttons: [ 'copy' ],
                 ordering: false,
-                ajax: 'schedule.json',
+                ajax: 'all.json',
                 columns: [
                     { data: 'Date', className: 'nowrap' },
                     { data: 'Venue' },
@@ -86,25 +82,185 @@
                 pageLength: 100
             });
 
-            function updateTable() {
-                if ($('#teamFilter').val() == 'schedule') {
-                    url = 'schedule';
-                } else {
-                    url = 'team/'+$('#teamFilter').val()+'-'+$('#type').val();
+            function updateUrlQueryString(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue) {
+                var queryString = '';
+                if (venueFilterValue !== '') {
+                    queryString += (queryString === '') ? '?' : '&';
+                    queryString += 'venue=' + venueFilterValue;
                 }
-                table.ajax.url(url+'.json').load();
-                var baseUrl = window.location.href.split('/').slice(0, -1).join('/');
-                $('#icsUrl').val(baseUrl + '/' + url + '.ics');
+                if (clubFilterValue !== '') {
+                    queryString += (queryString === '') ? '?' : '&';
+                    queryString += 'club=' + clubFilterValue;
+                }
+                if (teamFilterValue !== '') {
+                    queryString += (queryString === '') ? '?' : '&';
+                    queryString += 'team=' + teamFilterValue;
+                }
+                if (typeFilterValue !== '') {
+                    queryString += (queryString === '') ? '?' : '&';
+                    queryString += 'type=' + typeFilterValue;
+                }
+                window.history.pushState(null, null, window.location.pathname + queryString);
             }
 
-            $('#teamFilter').change(updateTable);
-            $('#type').change(updateTable);
+            function loadClubs(venueFilterValue, clubFilterValue) {
+                $('#clubFilter').empty();
+                $('#clubFilter').append('<option value="">All clubs</option>');
+                clubJson = "";
+                if (venueFilterValue !== '') {
+                    clubJson += 'venue/'+venueFilterValue;
+                }
+                clubJson += (clubJson === '') ? '' : '/';
+                clubJson += "club.json";
+                $.getJSON(clubJson).done(function(data) {
+                    $.each(data, function(index, club) {
+                        var clubFolder = club.toLowerCase().replace(/\s+/g, '-');
+                        var option = '<option value="' + clubFolder + '"';
+                        option += (clubFolder === clubFilterValue) ? ' selected' : '';
+                        option += '>' + club + '</option>';
+                        $('#clubFilter').append(option);
+                    });
+                });
+            }
 
-            $('#icsUrl').click(function() {
-                $('#icsUrl').select();
-            });
+            function loadTeams(venueFilterValue, clubFilterValue, teamFilterValue) {
+                $('#teamFilter').empty();
+                $('#teamFilter').append('<option value="">All Teams</option>');
+                teamJson = "";
+                if (venueFilterValue !== '') {
+                    teamJson += 'venue/'+venueFilterValue;
+                }
+                if (clubFilterValue !== '') {
+                    teamJson += (teamJson === '') ? '' : '/';
+                    teamJson += 'club/'+clubFilterValue;
+                }
+                teamJson += (teamJson === '') ? '' : '/';
+                teamJson += "team.json";
+                $.getJSON(teamJson).done(function(data) {
+                    $.each(data, function(index, team) {
+                        var teamFolder = team.toLowerCase().replace(/\s+/g, '-');
+                        var option = '<option value="' + teamFolder + '"';
+                        option += (teamFolder === teamFilterValue) ? ' selected' : '';
+                        option += '>' + team + '</option>';
+                        $('#teamFilter').append(option);
+                    });
+                });
+            }
 
-            $(document).ready( function () {
+            function updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue) {
+                var url = '';
+                
+                if (venueFilterValue !== '') {
+                    url += 'venue/'+venueFilterValue;
+                }
+                if (clubFilterValue !== '') {
+                    url += (url === '') ? '' : '/';
+                    url += 'club/'+clubFilterValue;
+                }
+                if (teamFilterValue !== '') {
+                    url += (url === '') ? '' : '/';
+                    url += 'team/'+teamFilterValue;
+                }
+                url += ((url === '') ? '' : '/') + typeFilterValue;
+                
+                $.getJSON(url+'.json')
+                    .fail(function(jqXHR, textStatus, errorThrown) {
+                        url = 'nodata';
+$                    });
+                
+                table.ajax.url(url+'.json').load();
+
+                var baseUrl = window.location.href.split('/').slice(0, -1).join('/');
+                $('#icsUrl').val(baseUrl + '/' + url + '.ics');
+
+                updateUrlQueryString(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+            }
+
+            function loadInitialSelection(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue) {
+                $('#venueFilter').empty();
+                $('#venueFilter').append('<option value="">All venues</option>');
+                $.getJSON('venue/venue.json').done(function(data) {
+                    $.each(data, function(index, venue) {
+                        var venueFolder = venue.toLowerCase().replace(/\s+/g, '-');
+                        var option = '<option value="' + venueFolder + '"';
+                        option += (venueFolder === venueFilterValue) ? ' selected' : '';
+                        option += '>' + venue + '</option>';
+                        $('#venueFilter').append(option);
+                    });
+                });
+
+                loadClubs(venueFilterValue, clubFilterValue);
+                loadTeams(venueFilterValue, clubFilterValue, teamFilterValue);
+                $('#typeFilter').val(typeFilterValue);
+            }
+
+            function getVenueFilterValue() {
+                var venueFilterValue = $('#venueFilter option:selected').val();
+                if (venueFilterValue === null || venueFilterValue === '')
+                    venueFilterValue = $('#venueFilter').val();
+                return venueFilterValue;
+            }
+
+            function getClubFilterValue() {
+                var clubFilterValue = $('#clubFilter option:selected').val();
+                if (clubFilterValue === null || clubFilterValue === '')
+                    clubFilterValue = $('#clubFilter').val();
+                return clubFilterValue;
+            }
+
+            function getTeamFilterValue() {
+                var teamFilterValue = $('#teamFilter option:selected').val();
+                if (teamFilterValue === null || teamFilterValue === '')
+                    teamFilterValue = $('#teamFilter').val();
+                return teamFilterValue;
+            }
+
+            function getTypeFilterValue() {
+                var typeFilterValue = $('#typeFilter option:selected').val();
+                if (typeFilterValue === null || typeFilterValue === '')
+                    typeFilterValue = $('#typeFilter').val();
+                return typeFilterValue;
+            }
+
+            function applyEvents() {
+                $('#typeFilter').change(function(){
+                    var venueFilterValue = getVenueFilterValue();
+                    var clubFilterValue = getClubFilterValue();
+                    var teamFilterValue = getTeamFilterValue();
+                    var typeFilterValue = getTypeFilterValue();
+                    updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                });
+                $('#teamFilter').change(function(){
+                    var venueFilterValue = getVenueFilterValue();
+                    var clubFilterValue = getClubFilterValue();
+                    var teamFilterValue = getTeamFilterValue();
+                    var typeFilterValue = getTypeFilterValue();
+                    updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                });
+                $('#clubFilter').change(function(){
+                    var venueFilterValue = getVenueFilterValue();
+                    var clubFilterValue = getClubFilterValue();
+                    var teamFilterValue = getTeamFilterValue();
+                    var typeFilterValue = getTypeFilterValue();
+                    loadTeams(venueFilterValue, clubFilterValue, teamFilterValue);
+                    updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                });
+                $('#venueFilter').change(function(){
+                    var venueFilterValue = getVenueFilterValue();
+                    var clubFilterValue = getClubFilterValue();
+                    var teamFilterValue = getTeamFilterValue();
+                    var typeFilterValue = getTypeFilterValue();
+                    loadClubs(venueFilterValue, clubFilterValue, );
+                    loadTeams(venueFilterValue, clubFilterValue, teamFilterValue);
+                    updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                });
+
+                $('#icsUrl').click(function() {
+                    $('#icsUrl').select();
+                });
+            }
+
+            function applyHighlight() {
                 var table = $('#schedule').DataTable();
             
                 table.on( 'draw', function () {
@@ -113,17 +269,41 @@
                     body.unhighlight();
                     var searchValue = table.search();
                     if (searchValue === '') {
-                        searchValue = $('#teamFilter option:selected').text();
+                        if ($('#teamFilter option:selected').val() != '') {
+                            searchValue = $('#teamFilter option:selected').text();
+                        } else if ($('#clubFilter option:selected').val() != '') {
+                            searchValue = $('#clubFilter option:selected').text();
+                        }
                     }
                     body.highlight( searchValue );  
                 } );
+            }
+
+            $(document).ready( function () {
+                applyEvents();
+                var venueFilterValue = '';
+                var clubFilterValue = '';
+                var teamFilterValue = '';
+                var typeFilterValue = '';
+                var urlParams = new URLSearchParams(window.location.search);
+                if (urlParams.has('venue')) {
+                    venueFilterValue = urlParams.get('venue');
+                }
+                if (urlParams.has('club')) {
+                    clubFilterValue = urlParams.get('club');
+                }
+                if (urlParams.has('team')) {
+                    teamFilterValue = urlParams.get('team');
+                }
+                if (urlParams.has('type')) {
+                    typeFilterValue = urlParams.get('type');
+                } else {
+                    typeFilterValue = 'all';
+                }
+                loadInitialSelection(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                updateTable(venueFilterValue, clubFilterValue, teamFilterValue, typeFilterValue);
+                applyHighlight();
             } );
-
-            $(document).load(updateTable());
-
-            $('#icsLink').click(function() {
-                window.open($('#icsUrl').val()+'?subscription=true');
-            });
         </script>
     </body>
 </html>

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A ASVZ Mockingbirds",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Geneva Seahawks",
+      "Referee": "A Zurich Renegades A",
+      "Lineman": "A Zurich Renegades A",
+      "Field Judge": "A Zurich Renegades A",
+      "Side Judge": "A Zurich Renegades A"
+    }
+  ]
+}

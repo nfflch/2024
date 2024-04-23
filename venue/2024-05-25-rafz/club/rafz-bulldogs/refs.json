@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "U13 Winterthur Warriors",
+      "Field Judge": "U13 Rafz Bulldogs",
+      "Side Judge": "U16 Lugano Rebels"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Zurich Renegades Blue",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "U13 Fraumatt Legions Red",
+      "Side Judge": "U13 Fraumatt Legions Black"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Calanda Broncos",
+      "Away Team": "U13 Lake Zurich Red Scorpions",
+      "Referee": "Roland Frei",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "U11 St. Gallen Bears"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 4",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "Roland Frei",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 5",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Basel Spartans",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 6",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    }
+  ]
+}

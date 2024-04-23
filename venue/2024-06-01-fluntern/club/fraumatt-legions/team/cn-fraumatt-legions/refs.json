@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 1",
+      "Start": "15:20",
+      "End": "16:20",
+      "League": "HARWY CN",
+      "Home Team": "CN Aemme Buzzards I",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 2",
+      "Start": "12:00",
+      "End": "13:00",
+      "League": "U16",
+      "Home Team": "U16 Zurich Renegades Blue",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "CN Zurich Renegades B",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 3",
+      "Start": "11:00",
+      "End": "12:00",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Geneva Seahawks",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    }
+  ]
+}

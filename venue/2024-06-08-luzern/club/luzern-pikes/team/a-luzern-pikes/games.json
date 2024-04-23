@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Midland Bouncers",
+      "Referee": "A Blackbucks Uni Bern Gold",
+      "Lineman": "A Blackbucks Uni Bern Gold",
+      "Field Judge": "A Blackbucks Uni Bern Gold",
+      "Side Judge": "A Blackbucks Uni Bern Gold"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Blackbucks Uni Bern Gold",
+      "Lineman": "A Blackbucks Uni Bern Gold",
+      "Field Judge": "A Blackbucks Uni Bern Gold",
+      "Side Judge": "A Blackbucks Uni Bern Gold"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A ASVZ Mockingbirds",
+      "Lineman": "A ASVZ Mockingbirds",
+      "Field Judge": "A ASVZ Mockingbirds",
+      "Side Judge": "A ASVZ Mockingbirds"
+    }
+  ]
+}

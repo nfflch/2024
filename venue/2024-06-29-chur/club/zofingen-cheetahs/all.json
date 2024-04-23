@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 1",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "U11 - F",
+      "Home Team": "Rang 1",
+      "Away Team": "Rang 2",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "11:10",
+      "End": "12:10",
+      "League": "HARWY CN",
+      "Home Team": "CN Zofingen Cheetahs",
+      "Away Team": "CN Argovia Pirates",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CN",
+      "Home Team": "CN Fraumatt Legions",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 5",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE St. Gallen Bears",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    }
+  ]
+}

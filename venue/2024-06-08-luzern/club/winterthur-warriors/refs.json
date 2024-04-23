@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A ASVZ Mockingbirds",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 3",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    }
+  ]
+}

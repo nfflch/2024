@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "10:00",
+      "End": "11:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    }
+  ]
+}

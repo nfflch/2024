@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 3",
+      "Start": "11:00",
+      "End": "12:00",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Geneva Seahawks",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 3",
+      "Start": "14:10",
+      "End": "15:10",
+      "League": "U16",
+      "Home Team": "U16 Zofingen Cheetahs",
+      "Away Team": "U16 Geneva Seahawks",
+      "Referee": "CN Blackbucks Uni Bern White",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

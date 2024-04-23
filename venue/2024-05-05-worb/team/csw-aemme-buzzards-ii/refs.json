@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CN",
+      "Home Team": "CN Blackbucks Uni Bern White",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "12:30",
+      "End": "13:30",
+      "League": "U16",
+      "Home Team": "U16 Lake Zurich Red Scorpions",
+      "Away Team": "U16 Geneva Seahawks",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    }
+  ]
+}

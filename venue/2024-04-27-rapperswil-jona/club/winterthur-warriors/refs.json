@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Zurich Renegades C",
+      "Side Judge": "CE Zurich Renegades C"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Calanda Broncos",
+      "Referee": "U16 Winterthur Warriors",
+      "Lineman": "U16 Winterthur Warriors",
+      "Field Judge": "U16 Winterthur Warriors",
+      "Side Judge": "U16 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U13",
+      "Home Team": "U13 Thun Tigers",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "Roland Frei",
+      "Lineman": "U13 Winterthur Warriors",
+      "Field Judge": "U13 Langenthal Invaders",
+      "Side Judge": "U13 Langenthal Invaders"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Gladiators Basel",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    }
+  ]
+}

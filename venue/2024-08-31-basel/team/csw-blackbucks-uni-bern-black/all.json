@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Aemme Buzzards II",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CSW Blackbucks Uni Bern Black",
+      "Field Judge": "CSW Blackbucks Uni Bern Black",
+      "Side Judge": "CSW Blackbucks Uni Bern Black"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Bienna Jets Young Guns",
+      "Referee": "CSW Lugano Rebels",
+      "Lineman": "CSW Lugano Rebels",
+      "Field Judge": "CSW Lugano Rebels",
+      "Side Judge": "CSW Lugano Rebels"
+    }
+  ]
+}

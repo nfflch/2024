@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Basel Barbarians",
+      "Away Team": "CN Fraumatt Legions",
+      "Referee": "CN Blackbucks Uni Bern White",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "17:10",
+      "End": "18:10",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    }
+  ]
+}

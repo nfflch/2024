@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 6",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 6",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CE",
+      "Home Team": "CE Thurgauer Generals",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    }
+  ]
+}

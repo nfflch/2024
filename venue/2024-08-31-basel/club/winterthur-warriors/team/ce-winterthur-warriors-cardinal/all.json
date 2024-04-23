@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "10:00",
+      "End": "11:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE Thurgauer Generals",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "15:50",
+      "End": "16:50",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "CE Zurich Renegades C",
+      "Side Judge": "CE Zurich Renegades C"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    }
+  ]
+}

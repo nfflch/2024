@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Langenthal Invaders",
+      "Referee": "U16 Basel Spartans",
+      "Lineman": "U16 Basel Spartans",
+      "Field Judge": "U16 Basel Spartans",
+      "Side Judge": "U16 Basel Spartans"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 3",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U13",
+      "Home Team": "U13 Fraumatt Legions Red",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "B Basel Spartans Yellow",
+      "Field Judge": "B Basel Spartans Yellow",
+      "Side Judge": "B Basel Spartans Yellow"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 4",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY B",
+      "Home Team": "B Winterthur Warriors Black",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "B Basel Spartans Yellow",
+      "Field Judge": "B Basel Spartans Yellow",
+      "Side Judge": "B Basel Spartans Yellow"
+    }
+  ]
+}

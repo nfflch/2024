@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "U16 Zofingen Cheetahs",
+      "Lineman": "U16 Zofingen Cheetahs",
+      "Field Judge": "U16 Zofingen Cheetahs",
+      "Side Judge": "U16 Zofingen Cheetahs"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Calanda Broncos",
+      "Referee": "U16 Winterthur Warriors",
+      "Lineman": "U16 Winterthur Warriors",
+      "Field Judge": "U16 Winterthur Warriors",
+      "Side Judge": "U16 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U16",
+      "Home Team": "U16 Lake Zurich Red Scorpions",
+      "Away Team": "U16 Winterthur Warriors",
+      "Referee": "U13 Calanda Broncos",
+      "Lineman": "U13 Calanda Broncos",
+      "Field Judge": "U13 Bienna Jets",
+      "Side Judge": "U13 Bienna Jets"
+    }
+  ]
+}

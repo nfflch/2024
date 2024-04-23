@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Midland Bouncers",
+      "Referee": "A ASVZ Blackbirds",
+      "Lineman": "A ASVZ Blackbirds",
+      "Field Judge": "A ASVZ Blackbirds",
+      "Side Judge": "A ASVZ Blackbirds"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Luzern Pikes",
+      "Referee": "A ASVZ Blackbirds",
+      "Lineman": "A ASVZ Blackbirds",
+      "Field Judge": "A ASVZ Blackbirds",
+      "Side Judge": "A ASVZ Blackbirds"
+    }
+  ]
+}

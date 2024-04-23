@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CN",
+      "Home Team": "CN Blackbucks Uni Bern White",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Blackbucks Uni Bern White",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "CSW Thun Tigers",
+      "Side Judge": "CSW Thun Tigers"
+    }
+  ]
+}

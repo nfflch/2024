@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CE Schottikon Raptors",
+      "Field Judge": "CE Schottikon Raptors",
+      "Side Judge": "CE Schottikon Raptors"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 2",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Aemme Buzzards II",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CSW Blackbucks Uni Bern Black",
+      "Field Judge": "CSW Blackbucks Uni Bern Black",
+      "Side Judge": "CSW Blackbucks Uni Bern Black"
+    }
+  ]
+}

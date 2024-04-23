@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 6",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Basel Spartans",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "U13 Langenthal Invaders",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U13",
+      "Home Team": "U13 Lake Zurich Red Scorpions",
+      "Away Team": "U13 Thun Tigers",
+      "Referee": "U16 Langenthal Invaders",
+      "Lineman": "U16 Langenthal Invaders",
+      "Field Judge": "U16 Langenthal Invaders",
+      "Side Judge": "U16 Langenthal Invaders"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Rafz Bulldogs"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "U13",
+      "Home Team": "U13 Winterthur Warriors",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "CSW Lugano Rebels",
+      "Lineman": "CSW Lugano Rebels",
+      "Field Judge": "CSW Lugano Rebels",
+      "Side Judge": "U13 Langenthal Invaders"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Calanda Broncos",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "U13 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U13",
+      "Home Team": "U13 Chaux de Fonds Hornets",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Zurich Renegades",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "U13 Bienna Jets",
+      "Side Judge": "U13 Calanda Broncos"
+    }
+  ]
+}

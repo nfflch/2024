@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 1",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "U13 - HF 1",
+      "Home Team": "Rang 1",
+      "Away Team": "Lower Seed",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 2",
+      "Start": "10:00",
+      "End": "11:00",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 3",
+      "Start": "11:10",
+      "End": "12:10",
+      "League": "HARWY CN",
+      "Home Team": "CN Zofingen Cheetahs",
+      "Away Team": "CN Argovia Pirates",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    }
+  ]
+}

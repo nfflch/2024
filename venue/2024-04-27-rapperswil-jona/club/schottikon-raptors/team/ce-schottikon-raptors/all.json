@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CE",
+      "Home Team": "CE St. Gallen Bears",
+      "Away Team": "CE Lake Zürich Red Scorpions",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Schottikon Raptors",
+      "Field Judge": "CE Schottikon Raptors",
+      "Side Judge": "CE Schottikon Raptors"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY CE",
+      "Home Team": "CE Schottikon Raptors",
+      "Away Team": "CE Rafz Bulldogs B",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE St. Gallen Bears",
+      "Side Judge": "CE St. Gallen Bears"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Lake Zürich Red Scorpions",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Rafz Bulldogs",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "U16 Langenthal Invaders",
+      "Field Judge": "U16 Langenthal Invaders",
+      "Side Judge": "U16 Langenthal Invaders"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Thurgauer Generals",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Zurich Renegades C",
+      "Lineman": "CE Zurich Renegades C",
+      "Field Judge": "CE Rafz Bulldogs B",
+      "Side Judge": "CE Rafz Bulldogs B"
+    }
+  ]
+}

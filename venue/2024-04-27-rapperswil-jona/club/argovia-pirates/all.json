@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Geneva Seahawks",
+      "Referee": "U13 Zurich Renegades",
+      "Lineman": "U13 Zurich Renegades",
+      "Field Judge": "U13 Thun Tigers",
+      "Side Judge": "U13 Thun Tigers"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "U13 Rafz Bulldogs",
+      "Side Judge": "U13 Rafz Bulldogs"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U16",
+      "Home Team": "U16 Lake Zurich Red Scorpions",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "U16 Argovia Pirates",
+      "Lineman": "U16 Argovia Pirates",
+      "Field Judge": "U13 Fraumatt Legions Red",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    }
+  ]
+}

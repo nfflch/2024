@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 6",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE Lake Zürich Red Scorpions",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "CE Schottikon Raptors",
+      "Field Judge": "CE Schottikon Raptors",
+      "Side Judge": "CE Schottikon Raptors"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 6",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Lake Zürich Red Scorpions",
+      "Away Team": "CE Schottikon Raptors",
+      "Referee": "CE Thurgauer Generals",
+      "Lineman": "CE Thurgauer Generals",
+      "Field Judge": "CE Thurgauer Generals",
+      "Side Judge": "CE Thurgauer Generals"
+    }
+  ]
+}

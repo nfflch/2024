@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY B",
+      "Home Team": "B Winterthur Warriors Black",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Midland Bouncers",
+      "Lineman": "A Midland Bouncers",
+      "Field Judge": "A Midland Bouncers",
+      "Side Judge": "A Midland Bouncers"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY A",
+      "Home Team": "A Basel Spartans Navy",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Midland Bouncers",
+      "Lineman": "A Midland Bouncers",
+      "Field Judge": "A Midland Bouncers",
+      "Side Judge": "A Midland Bouncers"
+    }
+  ]
+}

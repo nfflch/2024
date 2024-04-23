@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A ASVZ Mockingbirds",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    }
+  ]
+}

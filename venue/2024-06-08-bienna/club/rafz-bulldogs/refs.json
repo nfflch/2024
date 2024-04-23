@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Basel Spartans Yellow",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "U13 Zurich Renegades"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Rafz Bulldogs"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U13",
+      "Home Team": "U13 Thun Tigers",
+      "Away Team": "U13 Winterthur Warriors",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "CSW Blackbucks Uni Bern Black",
+      "Field Judge": "CSW Blackbucks Uni Bern Black",
+      "Side Judge": "CSW Blackbucks Uni Bern Black"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Aemme Buzzards II",
+      "Away Team": "CSW Thun Tigers",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    }
+  ]
+}

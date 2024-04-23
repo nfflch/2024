@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY B",
+      "Home Team": "B Bienna Jets OG's",
+      "Away Team": "B Winterthur Warriors Black",
+      "Referee": "B Midland Bouncers",
+      "Lineman": "B Midland Bouncers",
+      "Field Judge": "B Midland Bouncers",
+      "Side Judge": "B Midland Bouncers"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Soly Rhinos",
+      "Referee": "B Zorros Zürich",
+      "Lineman": "B Zorros Zürich",
+      "Field Judge": "B Zorros Zürich",
+      "Side Judge": "B Zorros Zürich"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Rafz Bulldogs A",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    }
+  ]
+}

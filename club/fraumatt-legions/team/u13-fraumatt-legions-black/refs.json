@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Zurich Renegades Blue",
+      "Referee": "Roland Frei",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Fraumatt Legions Black"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U16",
+      "Home Team": "U16 Gladiators Basel",
+      "Away Team": "U16 Zurich Renegades Blue",
+      "Referee": "CE Rafz Bulldogs B",
+      "Lineman": "CE Rafz Bulldogs B",
+      "Field Judge": "U13 Fraumatt Legions Red",
+      "Side Judge": "U13 Fraumatt Legions Black"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Rafz Bulldogs"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 6",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Basel Spartans",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "U13 Langenthal Invaders",
+      "Field Judge": "U13 Fraumatt Legions Black",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    }
+  ]
+}

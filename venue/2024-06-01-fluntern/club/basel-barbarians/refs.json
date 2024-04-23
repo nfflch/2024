@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 2",
+      "Start": "11:00",
+      "End": "12:00",
+      "League": "U16",
+      "Home Team": "U16 Zofingen Cheetahs",
+      "Away Team": "U16 Winterthur Warriors",
+      "Referee": "CN Basel Barbarians",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Basel Barbarians",
+      "Side Judge": "CN Basel Barbarians"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 2",
+      "Start": "13:00",
+      "End": "14:00",
+      "League": "U16",
+      "Home Team": "U16 Argovia Pirates",
+      "Away Team": "U16 Langenthal Invaders",
+      "Referee": "CN Basel Barbarians",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Basel Barbarians",
+      "Side Judge": "CN Basel Barbarians"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 3",
+      "Start": "15:20",
+      "End": "16:20",
+      "League": "U16",
+      "Home Team": "U16 Basel Spartans",
+      "Away Team": "U16 Lake Zurich Red Scorpions",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CN Basel Barbarians",
+      "Field Judge": "CN Basel Barbarians",
+      "Side Judge": "CN Basel Barbarians"
+    }
+  ]
+}

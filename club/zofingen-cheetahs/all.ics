@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-TZINFO:Europe/Zurich[2023c]
+BEGIN:STANDARD
+TZOFFSETTO:+002946
+TZOFFSETFROM:+003408
+TZNAME:Europe/Zurich(STD)
+DTSTART:18530716T000000
+RDATE:18530716T000000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+002946
+TZNAME:Europe/Zurich(STD)
+DTSTART:18940601T000000
+RDATE:18940601T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19410505T010000
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1MO;UNTIL=19420504T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19411006T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1MO;UNTIL=19421005T020000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19810927T030000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU;UNTIL=19950924T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU;UNTIL=19960331T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19961027T030000
+RDATE:19961027T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:(DST)
+DTSTART:19970330T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:(STD)
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T092000Z
+DTEND;TZID=Europe/Zurich:20240427T102000Z
+LOCATION:Rapperswil-Jona Field 2
+SUMMARY:U13 Bienna Jets vs U13 Fraumatt Legions Black
+DESCRIPTION:Head Ref: U16 Zofingen Cheetahs\nLineman: U16 Zofingen Cheetahs\nField Judge: U16 Zofingen Cheetahs\nSide Judge: U16 Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T151000Z
+DTEND;TZID=Europe/Zurich:20240427T161000Z
+LOCATION:Rapperswil-Jona Field 3
+SUMMARY:U16 Gladiators Basel vs U16 Zofingen Cheetahs
+DESCRIPTION:Head Ref: CE St. Gallen Bears\nLineman: U16 St. Gallen Bears\nField Judge: U16 St. Gallen Bears\nSide Judge: U16 St. Gallen Bears
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T103000Z
+DTEND;TZID=Europe/Zurich:20240427T113000Z
+LOCATION:Rapperswil-Jona Field 4
+SUMMARY:U16 Zofingen Cheetahs vs U16 Zurich Renegades Blue
+DESCRIPTION:Head Ref: Roland Frei\nLineman: U16 Lugano Rebels\nField Judge: U16 Lugano Rebels\nSide Judge: U16 Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240505T114000Z
+DTEND;TZID=Europe/Zurich:20240505T124000Z
+LOCATION:Worb Field 1
+SUMMARY:CN Fraumatt Legions vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CSW Lugano Rebels\nLineman: CSW Lugano Rebels\nField Judge: CSW Lugano Rebels\nSide Judge: CSW Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240505T125000Z
+DTEND;TZID=Europe/Zurich:20240505T135000Z
+LOCATION:Worb Field 1
+SUMMARY:CN Aemme Buzzards I vs CN Argovia Pirates
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240505T151000Z
+DTEND;TZID=Europe/Zurich:20240505T161000Z
+LOCATION:Worb Field 1
+SUMMARY:CN Zofingen Cheetahs vs CN Argovia Pirates
+DESCRIPTION:Head Ref: CSW Lugano Rebels\nLineman: CN Fraumatt Legions\nField Judge: CN Fraumatt Legions\nSide Judge: CN Fraumatt Legions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240505T173000Z
+DTEND;TZID=Europe/Zurich:20240505T183000Z
+LOCATION:Worb Field 1
+SUMMARY:U16 Gladiators Basel vs U16 Lake Zurich Red Scorpions
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240505T101000Z
+DTEND;TZID=Europe/Zurich:20240505T111000Z
+LOCATION:Worb Field 3
+SUMMARY:U16 Basel Spartans vs U16 Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Basel Barbarians\nLineman: CN Basel Barbarians\nField Judge: CN Basel Barbarians\nSide Judge: CN Basel Barbarians
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T140000Z
+DTEND;TZID=Europe/Zurich:20240525T150000Z
+LOCATION:Rafz Field 1
+SUMMARY:U16 Zofingen Cheetahs vs U16 Zurich Renegades White
+DESCRIPTION:Head Ref: B Bienna Jets OG's\nLineman: U13 Calanda Broncos\nField Judge: U13 Bienna Jets\nSide Judge: U13 Lake Zurich Red Scorpions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T173000Z
+DTEND;TZID=Europe/Zurich:20240525T183000Z
+LOCATION:Rafz Field 1
+SUMMARY:U16 Lake Zurich Red Scorpions vs U16 Zofingen Cheetahs
+DESCRIPTION:Head Ref: B Winterthur Warriors Black\nLineman: B Winterthur Warriors Black\nField Judge: B Winterthur Warriors Black\nSide Judge: B Winterthur Warriors Black
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T092000Z
+DTEND;TZID=Europe/Zurich:20240525T102000Z
+LOCATION:Rafz Field 3
+SUMMARY:U13 Langenthal Invaders vs U13 Winterthur Warriors
+DESCRIPTION:Head Ref: U16 Zofingen Cheetahs\nLineman: U16 Zofingen Cheetahs\nField Judge: U16 Zofingen Cheetahs\nSide Judge: U16 Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T120000Z
+DTEND;TZID=Europe/Zurich:20240601T130000Z
+LOCATION:Fluntern Field 1
+SUMMARY:CN Basel Barbarians vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: Roland Frei\nLineman: CN Aemme Buzzards I\nField Judge: CN Aemme Buzzards I\nSide Judge: CN Aemme Buzzards I
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T141000Z
+DTEND;TZID=Europe/Zurich:20240601T151000Z
+LOCATION:Fluntern Field 1
+SUMMARY:CN Zurich Renegades B vs CN Argovia Pirates
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T152000Z
+DTEND;TZID=Europe/Zurich:20240601T162000Z
+LOCATION:Fluntern Field 1
+SUMMARY:CN Aemme Buzzards I vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: Roland Frei\nLineman: CN Fraumatt Legions\nField Judge: CN Fraumatt Legions\nSide Judge: CN Fraumatt Legions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T095000Z
+DTEND;TZID=Europe/Zurich:20240601T105000Z
+LOCATION:Fluntern Field 2
+SUMMARY:U16 Zurich Renegades Blue vs U16 Zurich Renegades White
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T110000Z
+DTEND;TZID=Europe/Zurich:20240601T120000Z
+LOCATION:Fluntern Field 2
+SUMMARY:U16 Zofingen Cheetahs vs U16 Winterthur Warriors
+DESCRIPTION:Head Ref: CN Basel Barbarians\nLineman: CN Basel Barbarians\nField Judge: CN Basel Barbarians\nSide Judge: CN Basel Barbarians
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T141000Z
+DTEND;TZID=Europe/Zurich:20240601T151000Z
+LOCATION:Fluntern Field 2
+SUMMARY:U16 Zofingen Cheetahs vs U16 Lugano Rebels
+DESCRIPTION:Head Ref: CN Aemme Buzzards I\nLineman: CN Aemme Buzzards I\nField Judge: CN Aemme Buzzards I\nSide Judge: CN Aemme Buzzards I
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T141000Z
+DTEND;TZID=Europe/Zurich:20240601T151000Z
+LOCATION:Fluntern Field 3
+SUMMARY:U16 Zofingen Cheetahs vs U16 Geneva Seahawks
+DESCRIPTION:Head Ref: CN Blackbucks Uni Bern White\nLineman: CN Blackbucks Uni Bern White\nField Judge: CN Blackbucks Uni Bern White\nSide Judge: CN Blackbucks Uni Bern White
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240601T163000Z
+DTEND;TZID=Europe/Zurich:20240601T173000Z
+LOCATION:Fluntern Field 3
+SUMMARY:U16 Argovia Pirates vs U16 Zofingen Cheetahs
+DESCRIPTION:Head Ref: Andreas Capeder\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T103000Z
+DTEND;TZID=Europe/Zurich:20240622T113000Z
+LOCATION:Basel Field 5
+SUMMARY:U16 Zofingen Cheetahs vs U16 Langenthal Invaders
+DESCRIPTION:Head Ref: W Neuchâtel Knights\nLineman: W Neuchâtel Knights\nField Judge: W Neuchâtel Knights\nSide Judge: W Neuchâtel Knights
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T125000Z
+DTEND;TZID=Europe/Zurich:20240622T135000Z
+LOCATION:Basel Field 5
+SUMMARY:U16 Zofingen Cheetahs vs U16 St. Gallen Bears
+DESCRIPTION:Head Ref: W ASVZ Nightbirds\nLineman: W ASVZ Nightbirds\nField Judge: W ASVZ Nightbirds\nSide Judge: W ASVZ Nightbirds
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T151000Z
+DTEND;TZID=Europe/Zurich:20240622T161000Z
+LOCATION:Basel Field 7
+SUMMARY:U13 Rafz Bulldogs vs U13 Fraumatt Legions Black
+DESCRIPTION:Head Ref: U16 Zofingen Cheetahs\nLineman: U16 Zofingen Cheetahs\nField Judge: U16 Zofingen Cheetahs\nSide Judge: U16 Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T111000Z
+DTEND;TZID=Europe/Zurich:20240622T121000Z
+LOCATION:Bern Field 1
+SUMMARY:CN Blackbucks Uni Bern White vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Aemme Buzzards I\nLineman: CN Aemme Buzzards I\nField Judge: CN Aemme Buzzards I\nSide Judge: CN Aemme Buzzards I
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T133000Z
+DTEND;TZID=Europe/Zurich:20240622T143000Z
+LOCATION:Bern Field 1
+SUMMARY:CN Zurich Renegades B vs CN Fraumatt Legions
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T170000Z
+DTEND;TZID=Europe/Zurich:20240622T180000Z
+LOCATION:Bern Field 1
+SUMMARY:CN Zurich Renegades B vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Argovia Pirates\nLineman: CSW Bienna Jets Young Guns\nField Judge: CSW Bienna Jets Young Guns\nSide Judge: CSW Bienna Jets Young Guns
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T100000Z
+DTEND;TZID=Europe/Zurich:20240622T110000Z
+LOCATION:Bern Field 2
+SUMMARY:CE Winterthur Warriors Cardinal vs CE Thurgauer Generals
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CE Lake Zürich Red Scorpions\nField Judge: CE Lake Zürich Red Scorpions\nSide Judge: CE Lake Zürich Red Scorpions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T133000Z
+DTEND;TZID=Europe/Zurich:20240629T143000Z
+LOCATION:Chur Field 1
+SUMMARY:Rang 1 vs Rang 2
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T111000Z
+DTEND;TZID=Europe/Zurich:20240629T121000Z
+LOCATION:Chur Field 3
+SUMMARY:CN Zofingen Cheetahs vs CN Argovia Pirates
+DESCRIPTION:Head Ref: W Winterthur Warriors\nLineman: CN Fraumatt Legions\nField Judge: CN Fraumatt Legions\nSide Judge: CN Fraumatt Legions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T144000Z
+DTEND;TZID=Europe/Zurich:20240629T154000Z
+LOCATION:Chur Field 3
+SUMMARY:CN Fraumatt Legions vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Argovia Pirates\nLineman: CN Argovia Pirates\nField Judge: CN Argovia Pirates\nSide Judge: CN Argovia Pirates
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T170000Z
+DTEND;TZID=Europe/Zurich:20240629T180000Z
+LOCATION:Chur Field 5
+SUMMARY:CE Winterthur Warriors Cardinal vs CE St. Gallen Bears
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240824T122000Z
+DTEND;TZID=Europe/Zurich:20240824T132000Z
+LOCATION:Winterthur Field 3
+SUMMARY:CN Aemme Buzzards I vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Basel Barbarians\nLineman: CN Basel Barbarians\nField Judge: CN Zurich Renegades B\nSide Judge: CN Zurich Renegades B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240824T144000Z
+DTEND;TZID=Europe/Zurich:20240824T154000Z
+LOCATION:Winterthur Field 3
+SUMMARY:CN Fraumatt Legions vs CN Argovia Pirates
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240824T170000Z
+DTEND;TZID=Europe/Zurich:20240824T180000Z
+LOCATION:Winterthur Field 3
+SUMMARY:CN Basel Barbarians vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: Andreas Capeder\nLineman: CN Aemme Buzzards I\nField Judge: CN Blackbucks Uni Bern White\nSide Judge: CN Blackbucks Uni Bern White
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T122000Z
+DTEND;TZID=Europe/Zurich:20240831T132000Z
+LOCATION:Basel Field 1
+SUMMARY:CN Blackbucks Uni Bern White vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Argovia Pirates\nLineman: CN Argovia Pirates\nField Judge: CN Argovia Pirates\nSide Judge: CN Argovia Pirates
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T133000Z
+DTEND;TZID=Europe/Zurich:20240831T143000Z
+LOCATION:Basel Field 1
+SUMMARY:CN Aemme Buzzards I vs CN Fraumatt Legions
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zofingen Cheetahs\nSide Judge: CN Zofingen Cheetahs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T155000Z
+DTEND;TZID=Europe/Zurich:20240831T165000Z
+LOCATION:Basel Field 1
+SUMMARY:CN Zurich Renegades B vs CN Zofingen Cheetahs
+DESCRIPTION:Head Ref: CN Blackbucks Uni Bern White\nLineman: CN Blackbucks Uni Bern White\nField Judge: CN Blackbucks Uni Bern White\nSide Judge: CN Blackbucks Uni Bern White
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T170000Z
+DTEND;TZID=Europe/Zurich:20240831T180000Z
+LOCATION:Basel Field 1
+SUMMARY:CN Aemme Buzzards I vs CN Basel Barbarians
+DESCRIPTION:Head Ref: CN Zofingen Cheetahs\nLineman: CN Zofingen Cheetahs\nField Judge: CN Zurich Renegades B\nSide Judge: CN Zurich Renegades B
+END:VEVENT
+END:VCALENDAR

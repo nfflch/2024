@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U16",
+      "Home Team": "U16 Zurich Renegades Blue",
+      "Away Team": "U16 Langenthal Invaders",
+      "Referee": "CSW Thun Tigers",
+      "Lineman": "CSW Thun Tigers",
+      "Field Judge": "CSW Thun Tigers",
+      "Side Judge": "CSW Thun Tigers"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "11:20",
+      "End": "12:20",
+      "League": "U16",
+      "Home Team": "U16 Zurich Renegades Blue",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "CN Argovia Pirates",
+      "Lineman": "CN Argovia Pirates",
+      "Field Judge": "CN Argovia Pirates",
+      "Side Judge": "CN Argovia Pirates"
+    }
+  ]
+}

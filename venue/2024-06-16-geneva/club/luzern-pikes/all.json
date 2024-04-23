@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Luzern Pikes",
+      "Referee": "A ASVZ Blackbirds",
+      "Lineman": "A ASVZ Blackbirds",
+      "Field Judge": "A ASVZ Blackbirds",
+      "Side Judge": "A ASVZ Blackbirds"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY A",
+      "Home Team": "A Basel Spartans Navy",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Winterthur Warriors Gold",
+      "Referee": "A Blackbucks Uni Bern Gold",
+      "Lineman": "A Blackbucks Uni Bern Gold",
+      "Field Judge": "A Blackbucks Uni Bern Gold",
+      "Side Judge": "A Blackbucks Uni Bern Gold"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    }
+  ]
+}

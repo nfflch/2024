@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY B",
+      "Home Team": "B Bienna Jets OG's",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Chaux de Fonds Hornets",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "CSW Bienna Jets Young Guns",
+      "Field Judge": "CSW Bienna Jets Young Guns",
+      "Side Judge": "CSW Bienna Jets Young Guns"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Chaux de Fonds Hornets",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    }
+  ]
+}

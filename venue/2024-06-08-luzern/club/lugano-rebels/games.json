@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "W",
+      "Home Team": "W Lugano Rebels",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "W Geneva Seahawks",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Geneva Seahawks",
+      "Side Judge": "W Geneva Seahawks"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "W",
+      "Home Team": "W Neuchâtel Knights",
+      "Away Team": "W Lugano Rebels",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W SG Calanda Broncos St. Gallen Bears",
+      "Field Judge": "W SG Calanda Broncos St. Gallen Bears",
+      "Side Judge": "W SG Calanda Broncos St. Gallen Bears"
+    }
+  ]
+}

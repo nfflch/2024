@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-TZINFO:Europe/Zurich[2023c]
+BEGIN:STANDARD
+TZOFFSETTO:+002946
+TZOFFSETFROM:+003408
+TZNAME:Europe/Zurich(STD)
+DTSTART:18530716T000000
+RDATE:18530716T000000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+002946
+TZNAME:Europe/Zurich(STD)
+DTSTART:18940601T000000
+RDATE:18940601T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19410505T010000
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1MO;UNTIL=19420504T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19411006T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1MO;UNTIL=19421005T020000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19810927T030000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU;UNTIL=19950924T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU;UNTIL=19960331T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19961027T030000
+RDATE:19961027T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:(DST)
+DTSTART:19970330T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:(STD)
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240407T155000Z
+DTEND;TZID=Europe/Zurich:20240407T165000Z
+LOCATION:Zurich Field 1
+SUMMARY:U13 Calanda Broncos vs U13 Zurich Renegades
+DESCRIPTION:Head Ref: Zurich Renegades\nLineman: Zurich Renegades\nField Judge: Zurich Renegades\nSide Judge: Zurich Renegades
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240407T144000Z
+DTEND;TZID=Europe/Zurich:20240407T154000Z
+LOCATION:Zurich Field 2
+SUMMARY:U11 Zurich Renegades vs U11 Calanda Broncos
+DESCRIPTION:Head Ref: Phil Lemp\nLineman: U13 Rafz Bulldogs\nField Judge: U16 St. Gallen Bears\nSide Judge: U16 St. Gallen Bears
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240407T170000Z
+DTEND;TZID=Europe/Zurich:20240407T180000Z
+LOCATION:Zurich Field 2
+SUMMARY:U11 St. Gallen Bears vs U11 Calanda Broncos
+DESCRIPTION:Head Ref: Zurich Renegades\nLineman: U16 Zurich Renegades White\nField Judge: U16 Zurich Renegades White\nSide Judge: U16 Zurich Renegades White
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T114000Z
+DTEND;TZID=Europe/Zurich:20240427T124000Z
+LOCATION:Rapperswil-Jona Field 2
+SUMMARY:U13 Bienna Jets vs U13 Calanda Broncos
+DESCRIPTION:Head Ref: U16 Winterthur Warriors\nLineman: U16 Winterthur Warriors\nField Judge: U16 Winterthur Warriors\nSide Judge: U16 Winterthur Warriors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T162000Z
+DTEND;TZID=Europe/Zurich:20240427T172000Z
+LOCATION:Rapperswil-Jona Field 3
+SUMMARY:U13 Calanda Broncos vs U13 Winterthur Warriors
+DESCRIPTION:Head Ref: Roland Frei\nLineman: U16 Zurich Renegades White\nField Judge: U16 Zurich Renegades White\nSide Judge: U16 Zurich Renegades White
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T114000Z
+DTEND;TZID=Europe/Zurich:20240525T124000Z
+LOCATION:Rafz Field 2
+SUMMARY:U11 Fraumatt Legions vs U11 Calanda Broncos
+DESCRIPTION:Head Ref: U16 Gladiators Basel\nLineman: U16 Gladiators Basel\nField Judge: U16 Gladiators Basel\nSide Judge: U16 Gladiators Basel
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T140000Z
+DTEND;TZID=Europe/Zurich:20240525T150000Z
+LOCATION:Rafz Field 2
+SUMMARY:U11 Calanda Broncos vs U11 St. Gallen Bears
+DESCRIPTION:Head Ref: U16 Geneva Seahawks\nLineman: U16 Geneva Seahawks\nField Judge: U16 Geneva Seahawks\nSide Judge: U16 Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T125000Z
+DTEND;TZID=Europe/Zurich:20240525T135000Z
+LOCATION:Rafz Field 3
+SUMMARY:U13 Calanda Broncos vs U13 Lake Zurich Red Scorpions
+DESCRIPTION:Head Ref: Roland Frei\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: U11 St. Gallen Bears
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T151000Z
+DTEND;TZID=Europe/Zurich:20240525T161000Z
+LOCATION:Rafz Field 3
+SUMMARY:U13 Calanda Broncos vs U13 Fraumatt Legions Red
+DESCRIPTION:Head Ref: B Soly Rhinos\nLineman: B Soly Rhinos\nField Judge: B Soly Rhinos\nSide Judge: B Soly Rhinos
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T173000Z
+DTEND;TZID=Europe/Zurich:20240608T183000Z
+LOCATION:Bienna Field 2
+SUMMARY:U13 Calanda Broncos vs U13 Thun Tigers
+DESCRIPTION:Head Ref: CSW Aemme Buzzards II\nLineman: CSW Aemme Buzzards II\nField Judge: CSW Aemme Buzzards II\nSide Judge: CSW Aemme Buzzards II
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T125000Z
+DTEND;TZID=Europe/Zurich:20240608T135000Z
+LOCATION:Bienna Field 3
+SUMMARY:U13 Calanda Broncos vs U13 Fraumatt Legions Black
+DESCRIPTION:Head Ref: B Winterthur Warriors Black\nLineman: B Winterthur Warriors Black\nField Judge: B Winterthur Warriors Black\nSide Judge: U13 Winterthur Warriors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T125000Z
+DTEND;TZID=Europe/Zurich:20240608T135000Z
+LOCATION:Luzern Field 1
+SUMMARY:W ASVZ Nightbirds vs W SG Calanda Broncos St. Gallen Bears
+DESCRIPTION:Head Ref: W Zurich Renegades W\nLineman: W Zurich Renegades W\nField Judge: W Zurich Renegades W\nSide Judge: W Zurich Renegades W
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T162000Z
+DTEND;TZID=Europe/Zurich:20240608T172000Z
+LOCATION:Luzern Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Geneva Seahawks
+DESCRIPTION:Head Ref: W Neuchâtel Knights\nLineman: W Lugano Rebels\nField Judge: W Lugano Rebels\nSide Judge: W Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240616T114000Z
+DTEND;TZID=Europe/Zurich:20240616T124000Z
+LOCATION:Geneva Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Zurich Renegades W
+DESCRIPTION:Head Ref: W Winterthur Warriors\nLineman: W Winterthur Warriors\nField Judge: W Winterthur Warriors\nSide Judge: W Winterthur Warriors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240616T140000Z
+DTEND;TZID=Europe/Zurich:20240616T150000Z
+LOCATION:Geneva Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Neuchâtel Knights
+DESCRIPTION:Head Ref: W Winterthur Warriors\nLineman: W Lugano Rebels\nField Judge: W Lugano Rebels\nSide Judge: W Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T103000Z
+DTEND;TZID=Europe/Zurich:20240622T113000Z
+LOCATION:Basel Field 1
+SUMMARY:U11 Fraumatt Legions vs U11 Calanda Broncos
+DESCRIPTION:Head Ref: U16 Winterthur Warriors\nLineman: U16 Winterthur Warriors\nField Judge: U16 Winterthur Warriors\nSide Judge: U16 Winterthur Warriors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T114000Z
+DTEND;TZID=Europe/Zurich:20240622T124000Z
+LOCATION:Basel Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Lugano Rebels
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T162000Z
+DTEND;TZID=Europe/Zurich:20240622T172000Z
+LOCATION:Basel Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Winterthur Warriors
+DESCRIPTION:Head Ref: W ASVZ Nightbirds\nLineman: W ASVZ Nightbirds\nField Judge: W ASVZ Nightbirds\nSide Judge: W ASVZ Nightbirds
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T151000Z
+DTEND;TZID=Europe/Zurich:20240622T161000Z
+LOCATION:Basel Field 4
+SUMMARY:U11 Calanda Broncos vs U11 Zurich Renegades
+DESCRIPTION:Head Ref: B Winterthur Warriors Black\nLineman: U16 Lugano Rebels\nField Judge: U16 Lugano Rebels\nSide Judge: U16 Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T173000Z
+DTEND;TZID=Europe/Zurich:20240622T183000Z
+LOCATION:Basel Field 5
+SUMMARY:U13 Calanda Broncos vs U13 Rafz Bulldogs
+DESCRIPTION:Head Ref: A ASVZ Mockingbirds\nLineman: A ASVZ Mockingbirds\nField Judge: A ASVZ Mockingbirds\nSide Judge: A ASVZ Mockingbirds
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T140000Z
+DTEND;TZID=Europe/Zurich:20240622T150000Z
+LOCATION:Basel Field 7
+SUMMARY:U13 Calanda Broncos vs U13 Langenthal Invaders
+DESCRIPTION:Head Ref: U16 Argovia Pirates\nLineman: U16 Argovia Pirates\nField Judge: U16 Argovia Pirates\nSide Judge: U16 Argovia Pirates
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T133000Z
+DTEND;TZID=Europe/Zurich:20240629T143000Z
+LOCATION:Chur Field 2
+SUMMARY:W ASVZ Nightbirds vs W SG Calanda Broncos St. Gallen Bears
+DESCRIPTION:Head Ref: W Zurich Renegades W\nLineman: W Zurich Renegades W\nField Judge: W Zurich Renegades W\nSide Judge: W Zurich Renegades W
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T170000Z
+DTEND;TZID=Europe/Zurich:20240629T180000Z
+LOCATION:Chur Field 2
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Geneva Seahawks
+DESCRIPTION:Head Ref: Andreas Capeder\nLineman: W Lugano Rebels\nField Judge: W Lugano Rebels\nSide Judge: W Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240907T125000Z
+DTEND;TZID=Europe/Zurich:20240907T135000Z
+LOCATION:Neuchatel Field 3
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Neuchâtel Knights
+DESCRIPTION:Head Ref: W ASVZ Nightbirds\nLineman: W ASVZ Nightbirds\nField Judge: W ASVZ Nightbirds\nSide Judge: W ASVZ Nightbirds
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240907T162000Z
+DTEND;TZID=Europe/Zurich:20240907T172000Z
+LOCATION:Neuchatel Field 3
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Zurich Renegades W
+DESCRIPTION:Head Ref: W Neuchâtel Knights\nLineman: W Neuchâtel Knights\nField Judge: W Neuchâtel Knights\nSide Judge: W Neuchâtel Knights
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T114000Z
+DTEND;TZID=Europe/Zurich:20240914T124000Z
+LOCATION:Wintersried Field 3
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Lugano Rebels
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T162000Z
+DTEND;TZID=Europe/Zurich:20240914T172000Z
+LOCATION:Wintersried Field 3
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Winterthur Warriors
+DESCRIPTION:Head Ref: A Zurich Renegades A\nLineman: A Zurich Renegades A\nField Judge: A Zurich Renegades A\nSide Judge: A Zurich Renegades A
+END:VEVENT
+END:VCALENDAR

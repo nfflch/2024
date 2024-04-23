@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "U13 Zurich Renegades",
+      "Side Judge": "U13 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U13",
+      "Home Team": "U13 Calanda Broncos",
+      "Away Team": "U13 Langenthal Invaders",
+      "Referee": "U16 Argovia Pirates",
+      "Lineman": "U16 Argovia Pirates",
+      "Field Judge": "U16 Argovia Pirates",
+      "Side Judge": "U16 Argovia Pirates"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 7",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "B Basel Spartans Yellow",
+      "Field Judge": "B Basel Spartans Yellow",
+      "Side Judge": "B Basel Spartans Yellow"
+    }
+  ]
+}

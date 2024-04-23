@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-TZINFO:Europe/Zurich[2023c]
+BEGIN:STANDARD
+TZOFFSETTO:+002946
+TZOFFSETFROM:+003408
+TZNAME:Europe/Zurich(STD)
+DTSTART:18530716T000000
+RDATE:18530716T000000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+002946
+TZNAME:Europe/Zurich(STD)
+DTSTART:18940601T000000
+RDATE:18940601T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19410505T010000
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1MO;UNTIL=19420504T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19411006T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1MO;UNTIL=19421005T020000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19810927T030000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU;UNTIL=19950924T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU;UNTIL=19960331T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19961027T030000
+RDATE:19961027T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:(DST)
+DTSTART:19970330T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:(STD)
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240407T144000Z
+DTEND;TZID=Europe/Zurich:20240407T154000Z
+LOCATION:Zurich Field 2
+SUMMARY:U11 Zurich Renegades vs U11 Calanda Broncos
+DESCRIPTION:Head Ref: Phil Lemp\nLineman: U13 Rafz Bulldogs\nField Judge: U16 St. Gallen Bears\nSide Judge: U16 St. Gallen Bears
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T125000Z
+DTEND;TZID=Europe/Zurich:20240427T135000Z
+LOCATION:Rapperswil-Jona Field 1
+SUMMARY:CE Winterthur Warriors Cardinal vs CE St. Gallen Bears
+DESCRIPTION:Head Ref: Roland Frei\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T140000Z
+DTEND;TZID=Europe/Zurich:20240427T150000Z
+LOCATION:Rapperswil-Jona Field 1
+SUMMARY:U16 Basel Spartans vs U16 Zurich Renegades Blue
+DESCRIPTION:Head Ref: Roland Frei\nLineman: CE Rafz Bulldogs B\nField Judge: U13 Fraumatt Legions Black\nSide Judge: U13 Fraumatt Legions Black
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T140000Z
+DTEND;TZID=Europe/Zurich:20240427T150000Z
+LOCATION:Rapperswil-Jona Field 3
+SUMMARY:CE Thurgauer Generals vs CE Schottikon Raptors
+DESCRIPTION:Head Ref: CE Zurich Renegades C\nLineman: CE Zurich Renegades C\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T114000Z
+DTEND;TZID=Europe/Zurich:20240427T124000Z
+LOCATION:Rapperswil-Jona Field 4
+SUMMARY:U16 Argovia Pirates vs U16 Lugano Rebels
+DESCRIPTION:Head Ref: CE Thurgauer Generals\nLineman: CE Thurgauer Generals\nField Judge: U13 Rafz Bulldogs\nSide Judge: U13 Rafz Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T162000Z
+DTEND;TZID=Europe/Zurich:20240525T172000Z
+LOCATION:Rafz Field 1
+SUMMARY:U16 Geneva Seahawks vs U16 Zurich Renegades White
+DESCRIPTION:Head Ref: CE Winterthur Warriors Cardinal\nLineman: U13 Winterthur Warriors\nField Judge: U13 Rafz Bulldogs\nSide Judge: U16 Lugano Rebels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T092000Z
+DTEND;TZID=Europe/Zurich:20240525T102000Z
+LOCATION:Rafz Field 2
+SUMMARY:U16 Gladiators Basel vs U16 Zurich Renegades Blue
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Rafz Bulldogs B\nField Judge: U13 Fraumatt Legions Red\nSide Judge: U13 Fraumatt Legions Black
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T125000Z
+DTEND;TZID=Europe/Zurich:20240525T135000Z
+LOCATION:Rafz Field 3
+SUMMARY:U13 Calanda Broncos vs U13 Lake Zurich Red Scorpions
+DESCRIPTION:Head Ref: Roland Frei\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: U11 St. Gallen Bears
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T092000Z
+DTEND;TZID=Europe/Zurich:20240525T102000Z
+LOCATION:Rafz Field 4
+SUMMARY:B Midland Bouncers vs B Zorros Zürich
+DESCRIPTION:Head Ref: Roland Frei\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T092000Z
+DTEND;TZID=Europe/Zurich:20240525T102000Z
+LOCATION:Rafz Field 5
+SUMMARY:U16 Argovia Pirates vs U16 Basel Spartans
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T114000Z
+DTEND;TZID=Europe/Zurich:20240525T124000Z
+LOCATION:Rafz Field 6
+SUMMARY:CE St. Gallen Bears vs CE Thurgauer Generals
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Lake Zürich Red Scorpions\nField Judge: CE Lake Zürich Red Scorpions\nSide Judge: CE Lake Zürich Red Scorpions
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T114000Z
+DTEND;TZID=Europe/Zurich:20240608T124000Z
+LOCATION:Bienna Field 1
+SUMMARY:B Midland Bouncers vs B Basel Spartans Yellow
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: U13 Zurich Renegades
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T114000Z
+DTEND;TZID=Europe/Zurich:20240608T124000Z
+LOCATION:Bienna Field 2
+SUMMARY:CSW Blackbucks Uni Bern Black vs CSW Lugano Rebels
+DESCRIPTION:Head Ref: CSW Thun Tigers\nLineman: CSW Thun Tigers\nField Judge: U13 Fraumatt Legions Black\nSide Judge: U13 Rafz Bulldogs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T140000Z
+DTEND;TZID=Europe/Zurich:20240608T150000Z
+LOCATION:Bienna Field 2
+SUMMARY:U13 Thun Tigers vs U13 Winterthur Warriors
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: CSW Blackbucks Uni Bern Black\nField Judge: CSW Blackbucks Uni Bern Black\nSide Judge: CSW Blackbucks Uni Bern Black
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T162000Z
+DTEND;TZID=Europe/Zurich:20240608T172000Z
+LOCATION:Bienna Field 2
+SUMMARY:CSW Aemme Buzzards II vs CSW Thun Tigers
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T140000Z
+DTEND;TZID=Europe/Zurich:20240622T150000Z
+LOCATION:Basel Field 2
+SUMMARY:B Midland Bouncers vs B Soly Rhinos
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T092000Z
+DTEND;TZID=Europe/Zurich:20240622T102000Z
+LOCATION:Basel Field 5
+SUMMARY:U16 Argovia Pirates vs U16 Gladiators Basel
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T140000Z
+DTEND;TZID=Europe/Zurich:20240622T150000Z
+LOCATION:Basel Field 6
+SUMMARY:U16 Basel Spartans vs U16 Langenthal Invaders
+DESCRIPTION:Head Ref: A Zurich Renegades A\nLineman: U13 Lake Zurich Red Scorpions\nField Judge: U13 Rafz Bulldogs\nSide Judge: U13 Thun Tigers
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T144000Z
+DTEND;TZID=Europe/Zurich:20240622T154000Z
+LOCATION:Bern Field 2
+SUMMARY:CE Winterthur Warriors Cardinal vs CE Schottikon Raptors
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T155000Z
+DTEND;TZID=Europe/Zurich:20240629T165000Z
+LOCATION:Chur Field 1
+SUMMARY:Rang 1 vs Rang 2
+DESCRIPTION:Head Ref: Roland Frei\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T144000Z
+DTEND;TZID=Europe/Zurich:20240629T154000Z
+LOCATION:Chur Field 4
+SUMMARY:CE Thurgauer Generals vs CE Schottikon Raptors
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240630T114000Z
+DTEND;TZID=Europe/Zurich:20240630T124000Z
+LOCATION:Solothurn Field 1
+SUMMARY:B Midland Bouncers vs B Zorros Zürich
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240824T122000Z
+DTEND;TZID=Europe/Zurich:20240824T132000Z
+LOCATION:Winterthur Field 1
+SUMMARY:B Midland Bouncers vs B Basel Spartans Yellow
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240824T133000Z
+DTEND;TZID=Europe/Zurich:20240824T143000Z
+LOCATION:Winterthur Field 2
+SUMMARY:CE Lake Zürich Red Scorpions vs CE Schottikon Raptors
+DESCRIPTION:Head Ref: Andreas Capeder\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T122000Z
+DTEND;TZID=Europe/Zurich:20240831T132000Z
+LOCATION:Basel Field 2
+SUMMARY:CE St. Gallen Bears vs CE Schottikon Raptors
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CE Rafz Bulldogs B\nField Judge: CE Rafz Bulldogs B\nSide Judge: CE Rafz Bulldogs B
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240831T144000Z
+DTEND;TZID=Europe/Zurich:20240831T154000Z
+LOCATION:Basel Field 3
+SUMMARY:CSW Aemme Buzzards II vs CSW Lugano Rebels
+DESCRIPTION:Head Ref: CE Rafz Bulldogs B\nLineman: CSW Blackbucks Uni Bern Black\nField Judge: CSW Blackbucks Uni Bern Black\nSide Judge: CSW Blackbucks Uni Bern Black
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T151000Z
+DTEND;TZID=Europe/Zurich:20240914T161000Z
+LOCATION:Wintersried Field 4
+SUMMARY:B Soly Rhinos vs B Zorros Zürich
+DESCRIPTION:Head Ref: B Rafz Bulldogs A\nLineman: B Rafz Bulldogs A\nField Judge: B Rafz Bulldogs A\nSide Judge: B Rafz Bulldogs A
+END:VEVENT
+END:VCALENDAR

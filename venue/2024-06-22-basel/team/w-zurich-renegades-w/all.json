@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Neuchâtel Knights",
+      "Referee": "W Zurich Renegades W",
+      "Lineman": "W Zurich Renegades W",
+      "Field Judge": "W Zurich Renegades W",
+      "Side Judge": "W Zurich Renegades W"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "W",
+      "Home Team": "W Neuchâtel Knights",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Lugano Rebels",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 5",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "W Zurich Renegades W",
+      "Lineman": "W Zurich Renegades W",
+      "Field Judge": "W Zurich Renegades W",
+      "Side Judge": "W Zurich Renegades W"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Geneva Seahawks",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY A",
+      "Home Team": "A Winterthur Warriors Gold",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Basel Spartans Navy",
+      "Lineman": "A Basel Spartans Navy",
+      "Field Judge": "A Basel Spartans Navy",
+      "Side Judge": "A Basel Spartans Navy"
+    }
+  ]
+}

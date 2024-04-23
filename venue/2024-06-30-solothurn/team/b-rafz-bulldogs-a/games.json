@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY B",
+      "Home Team": "B Soly Rhinos",
+      "Away Team": "B Rafz Bulldogs A",
+      "Referee": "B Basel Spartans Yellow",
+      "Lineman": "B Basel Spartans Yellow",
+      "Field Judge": "B Basel Spartans Yellow",
+      "Side Judge": "B Basel Spartans Yellow"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY B",
+      "Home Team": "B Rafz Bulldogs A",
+      "Away Team": "B Winterthur Warriors Black",
+      "Referee": "B Zorros Zürich",
+      "Lineman": "B Zorros Zürich",
+      "Field Judge": "B Zorros Zürich",
+      "Side Judge": "B Zorros Zürich"
+    }
+  ]
+}

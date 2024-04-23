@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 1",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "U13 - HF 1",
+      "Home Team": "Rang 1",
+      "Away Team": "Lower Seed",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CE Winterthur Warriors Cardinal",
+      "Field Judge": "CE Winterthur Warriors Cardinal",
+      "Side Judge": "CE Winterthur Warriors Cardinal"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 5",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY CE",
+      "Home Team": "CE Zurich Renegades C",
+      "Away Team": "CE Winterthur Warriors Cardinal",
+      "Referee": "W ASVZ Nightbirds",
+      "Lineman": "W ASVZ Nightbirds",
+      "Field Judge": "W ASVZ Nightbirds",
+      "Side Judge": "W ASVZ Nightbirds"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 5",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CE",
+      "Home Team": "CE Winterthur Warriors Cardinal",
+      "Away Team": "CE St. Gallen Bears",
+      "Referee": "CN Zofingen Cheetahs",
+      "Lineman": "CN Zofingen Cheetahs",
+      "Field Judge": "CN Zofingen Cheetahs",
+      "Side Judge": "CN Zofingen Cheetahs"
+    }
+  ]
+}

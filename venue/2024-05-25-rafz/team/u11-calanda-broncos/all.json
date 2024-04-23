@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U16",
+      "Home Team": "U16 Langenthal Invaders",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "U13 Zurich Renegades",
+      "Lineman": "U13 Thun Tigers",
+      "Field Judge": "U13 Langenthal Invaders",
+      "Side Judge": "U11 Calanda Broncos"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 Calanda Broncos",
+      "Referee": "U16 Gladiators Basel",
+      "Lineman": "U16 Gladiators Basel",
+      "Field Judge": "U16 Gladiators Basel",
+      "Side Judge": "U16 Gladiators Basel"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "U11",
+      "Home Team": "U11 Calanda Broncos",
+      "Away Team": "U11 St. Gallen Bears",
+      "Referee": "U16 Geneva Seahawks",
+      "Lineman": "U16 Geneva Seahawks",
+      "Field Judge": "U16 Geneva Seahawks",
+      "Side Judge": "U16 Geneva Seahawks"
+    }
+  ]
+}

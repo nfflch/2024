@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 Zurich Renegades",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 Calanda Broncos",
+      "Referee": "U16 Gladiators Basel",
+      "Lineman": "U16 Gladiators Basel",
+      "Field Judge": "U16 Gladiators Basel",
+      "Side Judge": "U16 Gladiators Basel"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U11",
+      "Home Team": "U11 Fraumatt Legions",
+      "Away Team": "U11 St. Gallen Bears",
+      "Referee": "Roland Frei",
+      "Lineman": "U16 Lugano Rebels",
+      "Field Judge": "U16 Lugano Rebels",
+      "Side Judge": "U16 Lugano Rebels"
+    }
+  ]
+}

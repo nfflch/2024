@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY CN",
+      "Home Team": "CN Fraumatt Legions",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "CSW Lugano Rebels",
+      "Lineman": "CSW Lugano Rebels",
+      "Field Judge": "CSW Lugano Rebels",
+      "Side Judge": "CSW Lugano Rebels"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY CN",
+      "Home Team": "CN Zofingen Cheetahs",
+      "Away Team": "CN Argovia Pirates",
+      "Referee": "CSW Lugano Rebels",
+      "Lineman": "CN Fraumatt Legions",
+      "Field Judge": "CN Fraumatt Legions",
+      "Side Judge": "CN Fraumatt Legions"
+    }
+  ]
+}

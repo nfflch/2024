@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U16",
+      "Home Team": "U16 St. Gallen Bears",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CN Aemme Buzzards I",
+      "Lineman": "CN Aemme Buzzards I",
+      "Field Judge": "CN Aemme Buzzards I",
+      "Side Judge": "CN Aemme Buzzards I"
+    },
+    {
+      "Date": "2024-05-05",
+      "Venue": "Worb",
+      "Field": "Field 3",
+      "Start": "13:40",
+      "End": "14:40",
+      "League": "U16",
+      "Home Team": "U16 Lugano Rebels",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "Andreas Capeder",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    }
+  ]
+}

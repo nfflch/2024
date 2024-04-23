@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 1",
+      "Start": "12:00",
+      "End": "13:00",
+      "League": "HARWY CN",
+      "Home Team": "CN Basel Barbarians",
+      "Away Team": "CN Zofingen Cheetahs",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Aemme Buzzards I",
+      "Field Judge": "CN Aemme Buzzards I",
+      "Side Judge": "CN Aemme Buzzards I"
+    },
+    {
+      "Date": "2024-06-01",
+      "Venue": "Fluntern",
+      "Field": "Field 1",
+      "Start": "16:30",
+      "End": "17:30",
+      "League": "HARWY CN",
+      "Home Team": "CN Zurich Renegades B",
+      "Away Team": "CN Basel Barbarians",
+      "Referee": "Roland Frei",
+      "Lineman": "CN Blackbucks Uni Bern White",
+      "Field Judge": "CN Blackbucks Uni Bern White",
+      "Side Judge": "CN Blackbucks Uni Bern White"
+    }
+  ]
+}

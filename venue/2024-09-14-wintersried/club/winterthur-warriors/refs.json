@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 4",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY B",
+      "Home Team": "B Basel Spartans Yellow",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "B Winterthur Warriors Black"
+    }
+  ]
+}

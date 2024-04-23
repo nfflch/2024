@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Lugano Rebels",
+      "Referee": "Roland Frei",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Geneva Seahawks",
+      "Referee": "Roland Frei",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    },
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 3",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "W",
+      "Home Team": "W Lugano Rebels",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W SG Calanda Broncos St. Gallen Bears",
+      "Field Judge": "W SG Calanda Broncos St. Gallen Bears",
+      "Side Judge": "W SG Calanda Broncos St. Gallen Bears"
+    }
+  ]
+}

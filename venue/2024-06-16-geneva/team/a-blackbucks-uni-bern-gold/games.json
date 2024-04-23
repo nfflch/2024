@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 3",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Mockingbirds",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Zurich Renegades A",
+      "Lineman": "A Zurich Renegades A",
+      "Field Judge": "A Zurich Renegades A",
+      "Side Judge": "A Zurich Renegades A"
+    }
+  ]
+}

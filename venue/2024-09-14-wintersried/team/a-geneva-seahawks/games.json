@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 1",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Luzern Pikes",
+      "Referee": "A ASVZ Mockingbirds",
+      "Lineman": "A ASVZ Mockingbirds",
+      "Field Judge": "A ASVZ Mockingbirds",
+      "Side Judge": "A ASVZ Mockingbirds"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Blackbucks Uni Bern Gold",
+      "Lineman": "A Blackbucks Uni Bern Gold",
+      "Field Judge": "A Blackbucks Uni Bern Gold",
+      "Side Judge": "A Blackbucks Uni Bern Gold"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Winterthur Warriors Gold",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    }
+  ]
+}

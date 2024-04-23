@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY A",
+      "Home Team": "A Geneva Seahawks",
+      "Away Team": "A Winterthur Warriors Gold",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    },
+    {
+      "Date": "2024-09-14",
+      "Venue": "Wintersried",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "W",
+      "Home Team": "W Neuchâtel Knights",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W SG Calanda Broncos St. Gallen Bears",
+      "Field Judge": "W SG Calanda Broncos St. Gallen Bears",
+      "Side Judge": "W SG Calanda Broncos St. Gallen Bears"
+    }
+  ]
+}

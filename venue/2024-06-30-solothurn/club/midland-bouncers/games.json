@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Bienna Jets OG's",
+      "Referee": "B Soly Rhinos",
+      "Lineman": "B Soly Rhinos",
+      "Field Judge": "B Soly Rhinos",
+      "Side Judge": "B Soly Rhinos"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Midland Bouncers",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    }
+  ]
+}

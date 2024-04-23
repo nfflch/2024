@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Midland Bouncers",
+      "Referee": "A Geneva Seahawks",
+      "Lineman": "A Geneva Seahawks",
+      "Field Judge": "A Geneva Seahawks",
+      "Side Judge": "A Geneva Seahawks"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Blackbucks Uni Bern Gold",
+      "Referee": "A Winterthur Warriors Gold",
+      "Lineman": "A Winterthur Warriors Gold",
+      "Field Judge": "A Winterthur Warriors Gold",
+      "Side Judge": "A Winterthur Warriors Gold"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 4",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "HARWY A",
+      "Home Team": "A ASVZ Blackbirds",
+      "Away Team": "A Luzern Pikes",
+      "Referee": "A Zurich Renegades A",
+      "Lineman": "A Zurich Renegades A",
+      "Field Judge": "A Zurich Renegades A",
+      "Side Judge": "A Zurich Renegades A"
+    }
+  ]
+}

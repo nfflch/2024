@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    },
+    {
+      "Date": "2024-06-30",
+      "Venue": "Solothurn",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "HARWY A",
+      "Home Team": "A Midland Bouncers",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A Luzern Pikes",
+      "Lineman": "A Luzern Pikes",
+      "Field Judge": "A Luzern Pikes",
+      "Side Judge": "A Luzern Pikes"
+    }
+  ]
+}

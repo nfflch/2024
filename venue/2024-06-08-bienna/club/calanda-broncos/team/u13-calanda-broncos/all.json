@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 2",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U13",
+      "Home Team": "U13 Calanda Broncos",
+      "Away Team": "U13 Thun Tigers",
+      "Referee": "CSW Aemme Buzzards II",
+      "Lineman": "CSW Aemme Buzzards II",
+      "Field Judge": "CSW Aemme Buzzards II",
+      "Side Judge": "CSW Aemme Buzzards II"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Calanda Broncos",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "U13 Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Bienna",
+      "Field": "Field 3",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Zurich Renegades",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "U13 Bienna Jets",
+      "Side Judge": "U13 Calanda Broncos"
+    }
+  ]
+}

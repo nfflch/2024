@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U16",
+      "Home Team": "U16 Langenthal Invaders",
+      "Away Team": "U16 St. Gallen Bears",
+      "Referee": "U13 Zurich Renegades",
+      "Lineman": "U13 Thun Tigers",
+      "Field Judge": "U13 Langenthal Invaders",
+      "Side Judge": "U11 Calanda Broncos"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "10:30",
+      "End": "11:30",
+      "League": "U16",
+      "Home Team": "U16 St. Gallen Bears",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "U16 Zurich Renegades White",
+      "Field Judge": "U16 Zurich Renegades White",
+      "Side Judge": "U16 Zurich Renegades White"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U13",
+      "Home Team": "U13 Thun Tigers",
+      "Away Team": "U13 Fraumatt Legions Black",
+      "Referee": "Roland Frei",
+      "Lineman": "U16 St. Gallen Bears",
+      "Field Judge": "U16 St. Gallen Bears",
+      "Side Judge": "U16 St. Gallen Bears"
+    }
+  ]
+}

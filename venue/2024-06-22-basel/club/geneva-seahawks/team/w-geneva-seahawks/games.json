@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W SG Calanda Broncos St. Gallen Bears",
+      "Field Judge": "W SG Calanda Broncos St. Gallen Bears",
+      "Side Judge": "W SG Calanda Broncos St. Gallen Bears"
+    },
+    {
+      "Date": "2024-06-22",
+      "Venue": "Basel",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "W",
+      "Home Team": "W Geneva Seahawks",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    }
+  ]
+}

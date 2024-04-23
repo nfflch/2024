@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-TZINFO:Europe/Zurich[2023c]
+BEGIN:STANDARD
+TZOFFSETTO:+002946
+TZOFFSETFROM:+003408
+TZNAME:Europe/Zurich(STD)
+DTSTART:18530716T000000
+RDATE:18530716T000000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+002946
+TZNAME:Europe/Zurich(STD)
+DTSTART:18940601T000000
+RDATE:18940601T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19410505T010000
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1MO;UNTIL=19420504T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19411006T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1MO;UNTIL=19421005T020000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19810927T030000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU;UNTIL=19950924T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:Europe/Zurich(DST)
+DTSTART:19810329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU;UNTIL=19960331T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:Europe/Zurich(STD)
+DTSTART:19961027T030000
+RDATE:19961027T030000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETTO:+020000
+TZOFFSETFROM:+010000
+TZNAME:(DST)
+DTSTART:19970330T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+010000
+TZOFFSETFROM:+020000
+TZNAME:(STD)
+DTSTART:19971026T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240427T103000Z
+DTEND;TZID=Europe/Zurich:20240427T113000Z
+LOCATION:Rapperswil-Jona Field 2
+SUMMARY:U13 Lake Zurich Red Scorpions vs U13 Zurich Renegades
+DESCRIPTION:Head Ref: U16 Geneva Seahawks\nLineman: U16 Geneva Seahawks\nField Judge: U16 Geneva Seahawks\nSide Judge: U16 Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240525T140000Z
+DTEND;TZID=Europe/Zurich:20240525T150000Z
+LOCATION:Rafz Field 2
+SUMMARY:U11 Calanda Broncos vs U11 St. Gallen Bears
+DESCRIPTION:Head Ref: U16 Geneva Seahawks\nLineman: U16 Geneva Seahawks\nField Judge: U16 Geneva Seahawks\nSide Judge: U16 Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240608T114000Z
+DTEND;TZID=Europe/Zurich:20240608T124000Z
+LOCATION:Luzern Field 1
+SUMMARY:W Lugano Rebels vs W Winterthur Warriors
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240616T092000Z
+DTEND;TZID=Europe/Zurich:20240616T102000Z
+LOCATION:Geneva Field 1
+SUMMARY:W Neuchâtel Knights vs W Winterthur Warriors
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240616T151000Z
+DTEND;TZID=Europe/Zurich:20240616T161000Z
+LOCATION:Geneva Field 1
+SUMMARY:W ASVZ Nightbirds vs W Winterthur Warriors
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Neuchâtel Knights\nSide Judge: W Neuchâtel Knights
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240616T162000Z
+DTEND;TZID=Europe/Zurich:20240616T172000Z
+LOCATION:Geneva Field 3
+SUMMARY:A ASVZ Mockingbirds vs A Midland Bouncers
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T114000Z
+DTEND;TZID=Europe/Zurich:20240622T124000Z
+LOCATION:Basel Field 1
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Lugano Rebels
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T114000Z
+DTEND;TZID=Europe/Zurich:20240622T124000Z
+LOCATION:Basel Field 3
+SUMMARY:A ASVZ Blackbirds vs A Midland Bouncers
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T151000Z
+DTEND;TZID=Europe/Zurich:20240622T161000Z
+LOCATION:Basel Field 3
+SUMMARY:A Midland Bouncers vs A Blackbucks Uni Bern Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T151000Z
+DTEND;TZID=Europe/Zurich:20240622T161000Z
+LOCATION:Basel Field 5
+SUMMARY:U16 Gladiators Basel vs U16 St. Gallen Bears
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240622T173000Z
+DTEND;TZID=Europe/Zurich:20240622T183000Z
+LOCATION:Basel Field 6
+SUMMARY:U11 Fraumatt Legions vs U11 Zurich Renegades
+DESCRIPTION:Head Ref: U16 Geneva Seahawks\nLineman: U16 Geneva Seahawks\nField Judge: U16 Geneva Seahawks\nSide Judge: U16 Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T122000Z
+DTEND;TZID=Europe/Zurich:20240629T132000Z
+LOCATION:Chur Field 2
+SUMMARY:W Lugano Rebels vs W Winterthur Warriors
+DESCRIPTION:Head Ref: Roland Frei\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240629T133000Z
+DTEND;TZID=Europe/Zurich:20240629T143000Z
+LOCATION:Chur Field 4
+SUMMARY:Rang 2 vs Higher Seed
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240630T114000Z
+DTEND;TZID=Europe/Zurich:20240630T124000Z
+LOCATION:Solothurn Field 2
+SUMMARY:A ASVZ Blackbirds vs A Winterthur Warriors Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240630T151000Z
+DTEND;TZID=Europe/Zurich:20240630T161000Z
+LOCATION:Solothurn Field 3
+SUMMARY:A Luzern Pikes vs A Blackbucks Uni Bern Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240907T125000Z
+DTEND;TZID=Europe/Zurich:20240907T135000Z
+LOCATION:Neuchatel Field 1
+SUMMARY:A Midland Bouncers vs A Winterthur Warriors Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240907T114000Z
+DTEND;TZID=Europe/Zurich:20240907T124000Z
+LOCATION:Neuchatel Field 2
+SUMMARY:A ASVZ Mockingbirds vs A Blackbucks Uni Bern Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240907T092000Z
+DTEND;TZID=Europe/Zurich:20240907T102000Z
+LOCATION:Neuchatel Field 3
+SUMMARY:W Neuchâtel Knights vs W Winterthur Warriors
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T114000Z
+DTEND;TZID=Europe/Zurich:20240914T124000Z
+LOCATION:Wintersried Field 1
+SUMMARY:A ASVZ Blackbirds vs A Midland Bouncers
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T151000Z
+DTEND;TZID=Europe/Zurich:20240914T161000Z
+LOCATION:Wintersried Field 1
+SUMMARY:A ASVZ Mockingbirds vs A Winterthur Warriors Gold
+DESCRIPTION:Head Ref: A Geneva Seahawks\nLineman: A Geneva Seahawks\nField Judge: A Geneva Seahawks\nSide Judge: A Geneva Seahawks
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Zurich:20240914T114000Z
+DTEND;TZID=Europe/Zurich:20240914T124000Z
+LOCATION:Wintersried Field 3
+SUMMARY:W SG Calanda Broncos St. Gallen Bears vs W Lugano Rebels
+DESCRIPTION:Head Ref: W Geneva Seahawks\nLineman: W Geneva Seahawks\nField Judge: W Geneva Seahawks\nSide Judge: W Geneva Seahawks
+END:VEVENT
+END:VCALENDAR

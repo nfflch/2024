@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "W",
+      "Home Team": "W Neuchâtel Knights",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "W Geneva Seahawks",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Geneva Seahawks",
+      "Side Judge": "W Geneva Seahawks"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 1",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "W",
+      "Home Team": "W SG Calanda Broncos St. Gallen Bears",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 1",
+      "Start": "14:00",
+      "End": "15:00",
+      "League": "W",
+      "Home Team": "W SG Calanda Broncos St. Gallen Bears",
+      "Away Team": "W Neuchâtel Knights",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Lugano Rebels",
+      "Field Judge": "W Lugano Rebels",
+      "Side Judge": "W Lugano Rebels"
+    },
+    {
+      "Date": "2024-06-16",
+      "Venue": "Geneva",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "W Geneva Seahawks",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Neuchâtel Knights",
+      "Side Judge": "W Neuchâtel Knights"
+    }
+  ]
+}

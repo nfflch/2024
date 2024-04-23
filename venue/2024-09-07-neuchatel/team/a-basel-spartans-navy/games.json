@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 1",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "HARWY A",
+      "Home Team": "A Basel Spartans Navy",
+      "Away Team": "A Winterthur Warriors Gold",
+      "Referee": "A Zurich Renegades A",
+      "Lineman": "A Zurich Renegades A",
+      "Field Judge": "A Zurich Renegades A",
+      "Side Judge": "A Zurich Renegades A"
+    },
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 1",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "HARWY A",
+      "Home Team": "A Basel Spartans Navy",
+      "Away Team": "A Zurich Renegades A",
+      "Referee": "A Blackbucks Uni Bern Gold",
+      "Lineman": "A Blackbucks Uni Bern Gold",
+      "Field Judge": "A Blackbucks Uni Bern Gold",
+      "Side Judge": "A Blackbucks Uni Bern Gold"
+    },
+    {
+      "Date": "2024-09-07",
+      "Venue": "Neuchatel",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "HARWY A",
+      "Home Team": "A Luzern Pikes",
+      "Away Team": "A Basel Spartans Navy",
+      "Referee": "A ASVZ Blackbirds",
+      "Lineman": "A ASVZ Blackbirds",
+      "Field Judge": "A ASVZ Blackbirds",
+      "Side Judge": "A ASVZ Blackbirds"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 1",
+      "Start": "10:00",
+      "End": "11:00",
+      "League": "HARWY B",
+      "Home Team": "B Rafz Bulldogs A",
+      "Away Team": "B Zorros Zürich",
+      "Referee": "B Winterthur Warriors Black",
+      "Lineman": "B Winterthur Warriors Black",
+      "Field Judge": "B Winterthur Warriors Black",
+      "Side Judge": "B Winterthur Warriors Black"
+    },
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 1",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY B",
+      "Home Team": "B Midland Bouncers",
+      "Away Team": "B Basel Spartans Yellow",
+      "Referee": "B Rafz Bulldogs A",
+      "Lineman": "B Rafz Bulldogs A",
+      "Field Judge": "B Rafz Bulldogs A",
+      "Side Judge": "B Rafz Bulldogs A"
+    },
+    {
+      "Date": "2024-08-24",
+      "Venue": "Winterthur",
+      "Field": "Field 1",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "HARWY B",
+      "Home Team": "B Basel Spartans Yellow",
+      "Away Team": "B Rafz Bulldogs A",
+      "Referee": "B Bienna Jets OG's",
+      "Lineman": "B Bienna Jets OG's",
+      "Field Judge": "B Bienna Jets OG's",
+      "Side Judge": "B Bienna Jets OG's"
+    }
+  ]
+}

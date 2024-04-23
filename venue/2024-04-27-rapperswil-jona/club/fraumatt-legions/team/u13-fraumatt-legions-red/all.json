@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Rafz Bulldogs",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "CE Schottikon Raptors",
+      "Lineman": "U16 Langenthal Invaders",
+      "Field Judge": "U16 Langenthal Invaders",
+      "Side Judge": "U16 Langenthal Invaders"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "17:30",
+      "End": "18:30",
+      "League": "U13",
+      "Home Team": "U13 Thun Tigers",
+      "Away Team": "U13 Fraumatt Legions Red",
+      "Referee": "Roland Frei",
+      "Lineman": "U13 Winterthur Warriors",
+      "Field Judge": "U13 Langenthal Invaders",
+      "Side Judge": "U13 Langenthal Invaders"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U16",
+      "Home Team": "U16 Lake Zurich Red Scorpions",
+      "Away Team": "U16 Lugano Rebels",
+      "Referee": "U16 Argovia Pirates",
+      "Lineman": "U16 Argovia Pirates",
+      "Field Judge": "U13 Fraumatt Legions Red",
+      "Side Judge": "U13 Fraumatt Legions Red"
+    }
+  ]
+}

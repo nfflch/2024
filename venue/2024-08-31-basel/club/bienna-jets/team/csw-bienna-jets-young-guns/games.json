@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Bienna Jets Young Guns",
+      "Away Team": "CSW Lugano Rebels",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "CSW Chaux de Fonds Hornets",
+      "Field Judge": "CSW Chaux de Fonds Hornets",
+      "Side Judge": "CSW Chaux de Fonds Hornets"
+    },
+    {
+      "Date": "2024-08-31",
+      "Venue": "Basel",
+      "Field": "Field 3",
+      "Start": "17:00",
+      "End": "18:00",
+      "League": "HARWY CSW",
+      "Home Team": "CSW Blackbucks Uni Bern Black",
+      "Away Team": "CSW Bienna Jets Young Guns",
+      "Referee": "CSW Lugano Rebels",
+      "Lineman": "CSW Lugano Rebels",
+      "Field Judge": "CSW Lugano Rebels",
+      "Side Judge": "CSW Lugano Rebels"
+    }
+  ]
+}

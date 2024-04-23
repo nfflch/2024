@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 1",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U16",
+      "Home Team": "U16 Geneva Seahawks",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CE Winterthur Warriors Cardinal",
+      "Lineman": "U13 Winterthur Warriors",
+      "Field Judge": "U13 Rafz Bulldogs",
+      "Side Judge": "U16 Lugano Rebels"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 2",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "U13",
+      "Home Team": "U13 Bienna Jets",
+      "Away Team": "U13 Winterthur Warriors",
+      "Referee": "U16 Argovia Pirates",
+      "Lineman": "U16 Argovia Pirates",
+      "Field Judge": "U16 Argovia Pirates",
+      "Side Judge": "U16 Argovia Pirates"
+    },
+    {
+      "Date": "2024-05-25",
+      "Venue": "Rafz",
+      "Field": "Field 3",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Winterthur Warriors",
+      "Referee": "U16 Zofingen Cheetahs",
+      "Lineman": "U16 Zofingen Cheetahs",
+      "Field Judge": "U16 Zofingen Cheetahs",
+      "Side Judge": "U16 Zofingen Cheetahs"
+    }
+  ]
+}

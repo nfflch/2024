@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 2",
+      "Start": "16:20",
+      "End": "17:20",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Zurich Renegades",
+      "Referee": "U16 Gladiators Basel",
+      "Lineman": "U16 Gladiators Basel",
+      "Field Judge": "U16 Gladiators Basel",
+      "Side Judge": "U16 Gladiators Basel"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 3",
+      "Start": "11:40",
+      "End": "12:40",
+      "League": "U13",
+      "Home Team": "U13 Langenthal Invaders",
+      "Away Team": "U13 Thun Tigers",
+      "Referee": "U16 Zurich Renegades Blue",
+      "Lineman": "U16 Zurich Renegades Blue",
+      "Field Judge": "U16 Zurich Renegades Blue",
+      "Side Judge": "U16 Zurich Renegades Blue"
+    },
+    {
+      "Date": "2024-04-27",
+      "Venue": "Rapperswil-Jona",
+      "Field": "Field 4",
+      "Start": "15:10",
+      "End": "16:10",
+      "League": "U16",
+      "Home Team": "U16 Langenthal Invaders",
+      "Away Team": "U16 Zurich Renegades White",
+      "Referee": "CE St. Gallen Bears",
+      "Lineman": "CE St. Gallen Bears",
+      "Field Judge": "CE Lake Zürich Red Scorpions",
+      "Side Judge": "CE Lake Zürich Red Scorpions"
+    }
+  ]
+}

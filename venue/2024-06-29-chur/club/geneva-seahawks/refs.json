@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 2",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "W",
+      "Home Team": "W Lugano Rebels",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "Roland Frei",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Geneva Seahawks",
+      "Side Judge": "W Geneva Seahawks"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 4",
+      "Start": "13:30",
+      "End": "14:30",
+      "League": "U16 - HF 2",
+      "Home Team": "Rang 2",
+      "Away Team": "Higher Seed",
+      "Referee": "W Geneva Seahawks",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Geneva Seahawks",
+      "Side Judge": "W Geneva Seahawks"
+    }
+  ]
+}

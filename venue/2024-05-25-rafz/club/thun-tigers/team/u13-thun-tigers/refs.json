@@ -1,0 +1,16 @@
+{
+  "data": {
+    "Date": "2024-05-25",
+    "Venue": "Rafz",
+    "Field": "Field 1",
+    "Start": "15:10",
+    "End": "16:10",
+    "League": "U16",
+    "Home Team": "U16 Langenthal Invaders",
+    "Away Team": "U16 St. Gallen Bears",
+    "Referee": "U13 Zurich Renegades",
+    "Lineman": "U13 Thun Tigers",
+    "Field Judge": "U13 Langenthal Invaders",
+    "Side Judge": "U11 Calanda Broncos"
+  }
+}

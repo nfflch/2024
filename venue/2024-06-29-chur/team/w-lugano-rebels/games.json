@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 2",
+      "Start": "12:20",
+      "End": "13:20",
+      "League": "W",
+      "Home Team": "W Lugano Rebels",
+      "Away Team": "W Winterthur Warriors",
+      "Referee": "Roland Frei",
+      "Lineman": "W Geneva Seahawks",
+      "Field Judge": "W Geneva Seahawks",
+      "Side Judge": "W Geneva Seahawks"
+    },
+    {
+      "Date": "2024-06-29",
+      "Venue": "Chur",
+      "Field": "Field 2",
+      "Start": "14:40",
+      "End": "15:40",
+      "League": "W",
+      "Home Team": "W Neuchâtel Knights",
+      "Away Team": "W Lugano Rebels",
+      "Referee": "W SG Calanda Broncos St. Gallen Bears",
+      "Lineman": "W SG Calanda Broncos St. Gallen Bears",
+      "Field Judge": "W SG Calanda Broncos St. Gallen Bears",
+      "Side Judge": "W SG Calanda Broncos St. Gallen Bears"
+    }
+  ]
+}

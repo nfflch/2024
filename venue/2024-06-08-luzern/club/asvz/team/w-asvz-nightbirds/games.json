@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 1",
+      "Start": "9:20",
+      "End": "10:20",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W Zurich Renegades W",
+      "Referee": "W Winterthur Warriors",
+      "Lineman": "W Winterthur Warriors",
+      "Field Judge": "W Winterthur Warriors",
+      "Side Judge": "W Winterthur Warriors"
+    },
+    {
+      "Date": "2024-06-08",
+      "Venue": "Luzern",
+      "Field": "Field 1",
+      "Start": "12:50",
+      "End": "13:50",
+      "League": "W",
+      "Home Team": "W ASVZ Nightbirds",
+      "Away Team": "W SG Calanda Broncos St. Gallen Bears",
+      "Referee": "W Zurich Renegades W",
+      "Lineman": "W Zurich Renegades W",
+      "Field Judge": "W Zurich Renegades W",
+      "Side Judge": "W Zurich Renegades W"
+    }
+  ]
+}
